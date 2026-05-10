@@ -1,0 +1,5 @@
+APP_NAME = "Heart Disease Prediction Using Hybrid NLP"
+AUTHOR = "Gyanendra Chaudhary"
+VERSION = "2.0"
+BRANCH = "Artificial Intelligence and Machine Learning"
+PROJECT_TYPE = "B.Tech Final Year Project"
