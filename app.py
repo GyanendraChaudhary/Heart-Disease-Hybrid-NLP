@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from datetime import date
 import os
 
@@ -13,7 +12,6 @@ st.set_page_config(
     layout="wide"
 )
 
-# ---------------- THEME ----------------
 st.markdown("""
 <style>
 .stApp {
@@ -73,10 +71,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ---------------- LOAD MODEL ----------------
 bundle = load_or_train_model()
 
-# ---------------- SIDEBAR NAVIGATION ----------------
 st.sidebar.title("❤️ Project Navigation")
 
 page = st.sidebar.radio(
@@ -103,13 +99,93 @@ st.sidebar.write("**Backend:** Python")
 st.sidebar.write("**ML:** Random Forest")
 st.sidebar.write("**NLP:** TF-IDF")
 
-# ---------------- HEADER FUNCTION ----------------
+
 def title(text, sub):
     st.markdown(f"<div class='big-title'>{text}</div>", unsafe_allow_html=True)
     st.markdown(f"<div class='sub'>{sub}</div>", unsafe_allow_html=True)
     st.write("")
 
-# ---------------- PAGE 1 ----------------
+
+def patient_form():
+    st.subheader("👤 Patient Profile")
+
+    p1, p2 = st.columns(2)
+
+    with p1:
+        name = st.text_input("Patient Name", "Gyanendra Chaudhary")
+        pid = st.text_input("Patient ID", "P001")
+        contact = st.text_input("Contact Number", "9876543210")
+
+    with p2:
+        city = st.text_input("City", "Greater Noida")
+        checkup_date = st.date_input("Checkup Date", date.today())
+        lifestyle = st.selectbox("Lifestyle", ["Active", "Moderate", "Sedentary"])
+
+    st.subheader("❤️ Medical Details")
+
+    m1, m2 = st.columns(2)
+
+    with m1:
+        age = st.slider("Age", 20, 90, 45)
+        bp = st.slider("Resting Blood Pressure", 80, 220, 130)
+        chol = st.slider("Cholesterol Level", 100, 450, 220)
+
+    with m2:
+        heart_rate = st.slider("Maximum Heart Rate", 60, 220, 150)
+        gender = st.selectbox("Gender", ["Male", "Female"])
+        chest_pain = st.selectbox("Chest Pain Type", ["None", "Mild", "Moderate", "Severe"])
+
+    symptoms = st.text_area(
+        "Symptoms / Clinical Notes",
+        "chest pain, shortness of breath, fatigue"
+    )
+
+    return name, pid, contact, city, checkup_date, lifestyle, age, bp, chol, heart_rate, gender, chest_pain, symptoms
+
+
+def show_prediction_result(pred, prob, age, bp, chol, heart_rate, symptoms):
+    st.markdown("---")
+    st.subheader("🧠 Prediction Result")
+
+    r1, r2, r3 = st.columns(3)
+
+    with r1:
+        if pred == 1:
+            st.markdown("<div class='red-card'><h3>Status</h3><h1>HIGH RISK</h1></div>", unsafe_allow_html=True)
+        else:
+            st.markdown("<div class='green-card'><h3>Status</h3><h1>LOW RISK</h1></div>", unsafe_allow_html=True)
+
+    with r2:
+        st.markdown(f"<div class='blue-card'><h3>Risk Probability</h3><h1>{prob:.2f}%</h1></div>", unsafe_allow_html=True)
+
+    with r3:
+        confidence = "Strong" if prob > 70 else "Moderate" if prob > 40 else "Low"
+        st.markdown(f"<div class='blue-card'><h3>Confidence</h3><h1>{confidence}</h1></div>", unsafe_allow_html=True)
+
+    st.write("")
+
+    c1, c2 = st.columns(2)
+
+    with c1:
+        st.subheader("📈 Risk Score")
+        st.progress(int(min(max(prob, 0), 100)))
+        st.write(f"Risk Probability: **{prob:.2f}%**")
+
+    with c2:
+        st.subheader("📌 Feature Impact Analysis")
+        feature_df = pd.DataFrame({
+            "Feature": ["Age", "Blood Pressure", "Cholesterol", "Heart Rate", "Symptoms"],
+            "Impact": [
+                age / 90 * 100,
+                bp / 220 * 100,
+                chol / 450 * 100,
+                heart_rate / 220 * 100,
+                min(len(symptoms) * 2, 100)
+            ]
+        })
+        st.bar_chart(feature_df.set_index("Feature"))
+
+
 if page == "1. Home Dashboard":
     title("❤️ HEART DISEASE PREDICTION USING HYBRID NLP", "Professional B.Tech Final Year AI Healthcare Project")
 
@@ -137,39 +213,7 @@ if page == "1. Home Dashboard":
 
     st.success("Project dashboard is ready. Use the sidebar to explore all modules.")
 
-# ---------------- COMMON INPUT FUNCTION ----------------
-def patient_form():
-    st.subheader("👤 Patient Profile")
-    p1, p2 = st.columns(2)
 
-    with p1:
-        name = st.text_input("Patient Name", "Gyanendra Chaudhary")
-        pid = st.text_input("Patient ID", "P001")
-        contact = st.text_input("Contact Number", "9876543210")
-
-    with p2:
-        city = st.text_input("City", "Greater Noida")
-        checkup_date = st.date_input("Checkup Date", date.today())
-        lifestyle = st.selectbox("Lifestyle", ["Active", "Moderate", "Sedentary"])
-
-    st.subheader("❤️ Medical Details")
-    m1, m2 = st.columns(2)
-
-    with m1:
-        age = st.slider("Age", 20, 90, 45)
-        bp = st.slider("Resting Blood Pressure", 80, 220, 130)
-        chol = st.slider("Cholesterol Level", 100, 450, 220)
-
-    with m2:
-        heart_rate = st.slider("Maximum Heart Rate", 60, 220, 150)
-        gender = st.selectbox("Gender", ["Male", "Female"])
-        chest_pain = st.selectbox("Chest Pain Type", ["None", "Mild", "Moderate", "Severe"])
-
-    symptoms = st.text_area("Symptoms / Clinical Notes", "chest pain, shortness of breath, fatigue")
-
-    return name, pid, contact, city, checkup_date, lifestyle, age, bp, chol, heart_rate, gender, chest_pain, symptoms
-
-# ---------------- PAGE 2 ----------------
 if page == "2. Patient Prediction":
     title("🧾 Patient Prediction", "Enter complete patient details and predict heart disease risk")
 
@@ -195,39 +239,7 @@ if page == "2. Patient Prediction":
         name, pid, contact, city, checkup_date, lifestyle, age, bp, chol, heart_rate, gender, chest_pain, symptoms = data
         pred, prob = predict_risk(age, gender, chest_pain, bp, chol, heart_rate, symptoms)
 
-        st.markdown("---")
-        st.subheader("🧠 Prediction Result")
-
-        r1, r2, r3 = st.columns(3)
-
-        with r1:
-            if pred == 1:
-                st.markdown("<div class='red-card'><h3>Status</h3><h1>HIGH RISK</h1></div>", unsafe_allow_html=True)
-            else:
-                st.markdown("<div class='green-card'><h3>Status</h3><h1>LOW RISK</h1></div>", unsafe_allow_html=True)
-
-        with r2:
-            st.markdown(f"<div class='blue-card'><h3>Risk Probability</h3><h1>{prob:.2f}%</h1></div>", unsafe_allow_html=True)
-
-        with r3:
-            confidence = "Strong" if prob > 70 else "Moderate" if prob > 40 else "Low"
-            st.markdown(f"<div class='blue-card'><h3>Confidence</h3><h1>{confidence}</h1></div>", unsafe_allow_html=True)
-
-        g1, g2 = st.columns(2)
-
-        with g1:
-            fig, ax = plt.subplots()
-            ax.barh(["Risk Score"], [prob])
-            ax.set_xlim(0, 100)
-            ax.set_title("Heart Disease Risk Score")
-            st.pyplot(fig)
-
-        with g2:
-            vals = [age / 90 * 100, bp / 220 * 100, chol / 450 * 100, heart_rate / 220 * 100, min(len(symptoms) * 2, 100)]
-            fig2, ax2 = plt.subplots()
-            ax2.bar(["Age", "BP", "Chol", "HR", "Symptoms"], vals)
-            ax2.set_title("Feature Impact Analysis")
-            st.pyplot(fig2)
+        show_prediction_result(pred, prob, age, bp, chol, heart_rate, symptoms)
 
         report = {
             "Patient Name": name,
@@ -257,7 +269,7 @@ if page == "2. Patient Prediction":
             mime="text/csv"
         )
 
-# ---------------- PAGE 3 ----------------
+
 if page == "3. Quick Health Check":
     title("⚡ Quick Health Check", "Fast risk screening without full patient profile")
 
@@ -271,16 +283,14 @@ if page == "3. Quick Health Check":
 
     if st.button("Run Quick Check"):
         pred, prob = predict_risk(age, gender, chest_pain, bp, chol, heart_rate, symptoms)
-        if pred == 1:
-            st.error(f"⚠️ High Risk Detected: {prob:.2f}%")
-        else:
-            st.success(f"✅ Low Risk Detected: {prob:.2f}%")
+        show_prediction_result(pred, prob, age, bp, chol, heart_rate, symptoms)
 
-# ---------------- PAGE 4 ----------------
+
 if page == "4. NLP Symptom Analyzer":
     title("🧠 NLP Symptom Analyzer", "Analyze symptom text using TF-IDF NLP technique")
 
     text = st.text_area("Enter symptom text", "chest pain shortness of breath dizziness fatigue")
+
     if st.button("Analyze Text"):
         vectorizer = bundle["vectorizer"]
         vec = vectorizer.transform([text])
@@ -297,7 +307,7 @@ if page == "4. NLP Symptom Analyzer":
         else:
             st.warning("No important medical term found in current vocabulary.")
 
-# ---------------- PAGE 5 ----------------
+
 if page == "5. Dataset & EDA":
     title("📊 Dataset & EDA", "Dataset preview and exploratory data analysis")
 
@@ -313,22 +323,22 @@ if page == "5. Dataset & EDA":
         st.subheader("Statistical Summary")
         st.dataframe(df.describe(), use_container_width=True)
 
-        g1, g2 = st.columns(2)
-        with g1:
-            fig, ax = plt.subplots()
-            df["target"].value_counts().plot(kind="bar", ax=ax)
-            ax.set_title("Target Distribution")
-            st.pyplot(fig)
+        st.subheader("Target Distribution")
+        target_counts = df["target"].value_counts().rename(index={0: "Low Risk", 1: "High Risk"})
+        st.bar_chart(target_counts)
 
-        with g2:
-            fig2, ax2 = plt.subplots()
-            ax2.hist(df["age"], bins=20)
-            ax2.set_title("Age Distribution")
-            st.pyplot(fig2)
+        st.subheader("Age Distribution")
+        age_bins = pd.cut(df["age"], bins=[20, 30, 40, 50, 60, 70, 90]).value_counts().sort_index()
+        st.bar_chart(age_bins)
+
+        st.subheader("Cholesterol Distribution")
+        chol_bins = pd.cut(df["chol"], bins=[100, 160, 220, 280, 340, 450]).value_counts().sort_index()
+        st.bar_chart(chol_bins)
+
     else:
         st.error("data/heart.csv not found. Run python generate_data.py first.")
 
-# ---------------- PAGE 6 ----------------
+
 if page == "6. Model Performance":
     title("📈 Model Performance", "Accuracy, comparison and confusion matrix")
 
@@ -341,16 +351,13 @@ if page == "6. Model Performance":
     results = compare_models()
     st.dataframe(results, use_container_width=True)
 
-    fig, ax = plt.subplots()
-    ax.bar(results["Model"], results["Accuracy"])
-    ax.set_ylabel("Accuracy (%)")
-    ax.set_title("Model Accuracy Comparison")
-    st.pyplot(fig)
+    st.subheader("Accuracy Chart")
+    st.bar_chart(results.set_index("Model"))
 
     st.subheader("Confusion Matrix")
     st.table(pd.DataFrame(cm, columns=["Predicted Low", "Predicted High"], index=["Actual Low", "Actual High"]))
 
-# ---------------- PAGE 7 ----------------
+
 if page == "7. Patient Report":
     title("📄 Patient Report Generator", "Create a sample patient report for documentation")
 
@@ -373,6 +380,7 @@ if page == "7. Patient Report":
             "Risk Probability": f"{risk}%"
         }
         st.table(pd.DataFrame(report.items(), columns=["Field", "Value"]))
+
         st.download_button(
             "Download Report CSV",
             data=pd.DataFrame([report]).to_csv(index=False).encode("utf-8"),
@@ -380,7 +388,7 @@ if page == "7. Patient Report":
             mime="text/csv"
         )
 
-# ---------------- PAGE 8 ----------------
+
 if page == "8. System Architecture":
     title("🧩 System Architecture", "Complete architecture of the project")
 
@@ -411,7 +419,7 @@ Risk Prediction
 Recommendation + Report
 """)
 
-# ---------------- PAGE 9 ----------------
+
 if page == "9. Methodology":
     title("⚙️ Proposed Methodology", "Step-by-step project working")
 
@@ -432,7 +440,7 @@ if page == "9. Methodology":
     </div>
     """, unsafe_allow_html=True)
 
-# ---------------- PAGE 10 ----------------
+
 if page == "10. Conclusion & Future Work":
     title("✅ Conclusion & Future Work", "Final summary of the project")
 
