@@ -1,1001 +1,1001 @@
 age,sex,cp,trestbps,chol,thalach,symptoms,target
-75,0,0,189,199,200,mild fatigue no major symptoms,0
-80,1,2,148,220,190,severe chest pressure sweating breathing difficulty,1
-82,0,2,122,244,110,irregular heartbeat chest discomfort weakness,1
-56,1,3,139,301,101,irregular heartbeat chest discomfort weakness,1
-57,1,1,151,205,131,mild fatigue no major symptoms,0
-47,0,0,172,168,162,healthy condition normal heart rate,0
-76,1,3,139,368,96,irregular heartbeat chest discomfort weakness,1
-61,0,1,159,207,122,normal breathing no chest pain active lifestyle,0
-48,1,3,154,153,204,mild fatigue no major symptoms,0
-62,1,0,179,376,87,severe chest pressure sweating breathing difficulty,1
-81,1,3,98,186,163,no chest pain good activity level,0
-68,1,1,172,211,115,chest pain shortness of breath fatigue dizziness,1
-43,1,2,90,211,85,normal breathing no chest pain active lifestyle,0
-74,1,1,157,262,205,pain in chest during exercise tiredness,1
-55,0,3,141,372,145,severe chest pressure sweating breathing difficulty,1
-75,0,3,117,252,163,irregular heartbeat chest discomfort weakness,1
-35,0,1,154,314,128,mild fatigue no major symptoms,0
-72,1,2,190,329,140,chest pain shortness of breath fatigue dizziness,1
-83,0,3,145,339,136,irregular heartbeat chest discomfort weakness,1
-52,1,1,120,180,200,mild fatigue no major symptoms,0
-77,0,2,106,347,145,pain in chest during exercise tiredness,1
-82,0,3,147,377,182,severe chest pressure sweating breathing difficulty,1
-60,0,1,112,265,115,chest pain shortness of breath fatigue dizziness,1
-43,0,1,152,220,169,no chest pain good activity level,0
-81,1,1,125,351,182,mild fatigue no major symptoms,0
-57,1,1,162,344,184,severe chest pressure sweating breathing difficulty,1
-51,0,2,94,255,196,healthy condition normal heart rate,0
-26,0,2,109,206,86,no chest pain good activity level,0
-52,1,3,139,192,201,normal breathing no chest pain active lifestyle,0
-74,0,3,177,351,115,severe chest pressure sweating breathing difficulty,1
-28,0,3,122,239,117,mild fatigue no major symptoms,0
-62,1,0,158,207,148,mild fatigue no major symptoms,0
-55,0,2,186,333,152,irregular heartbeat chest discomfort weakness,1
-64,0,2,93,270,148,pain in chest during exercise tiredness,1
-30,0,1,154,183,170,normal breathing no chest pain active lifestyle,0
-59,0,2,172,216,88,severe chest pressure sweating breathing difficulty,1
-49,1,1,109,234,130,normal breathing no chest pain active lifestyle,0
-39,0,0,130,246,162,no chest pain good activity level,0
-74,0,3,147,368,128,irregular heartbeat chest discomfort weakness,1
-57,1,3,141,240,108,chest pain shortness of breath fatigue dizziness,1
-54,1,1,143,246,203,normal breathing no chest pain active lifestyle,0
-61,0,1,120,363,182,no chest pain good activity level,0
-51,0,0,122,184,120,healthy condition normal heart rate,0
-84,1,0,101,214,176,no chest pain good activity level,0
-68,0,0,123,183,182,healthy condition normal heart rate,0
-81,0,2,131,285,202,pain in chest during exercise tiredness,1
-51,0,2,148,214,140,normal breathing no chest pain active lifestyle,0
-65,0,3,134,153,183,healthy condition normal heart rate,0
-76,1,3,135,293,166,irregular heartbeat chest discomfort weakness,1
-78,1,0,110,201,133,mild fatigue no major symptoms,0
-33,1,3,182,184,187,no chest pain good activity level,0
-25,0,3,143,337,115,irregular heartbeat chest discomfort weakness,1
-31,0,2,127,200,168,normal breathing no chest pain active lifestyle,0
-38,1,1,141,287,178,mild fatigue no major symptoms,0
-64,0,3,131,323,148,irregular heartbeat chest discomfort weakness,1
-59,0,1,186,183,128,mild fatigue no major symptoms,0
-41,1,3,155,231,163,mild fatigue no major symptoms,0
-51,1,0,143,188,90,mild fatigue no major symptoms,0
-46,1,3,121,274,135,no chest pain good activity level,0
-41,0,0,137,340,124,no chest pain good activity level,0
-46,1,0,185,231,133,mild fatigue no major symptoms,0
-49,0,0,189,320,151,mild fatigue no major symptoms,0
-80,0,3,104,195,193,healthy condition normal heart rate,0
-85,0,2,102,196,127,healthy condition normal heart rate,0
-54,0,3,172,297,192,irregular heartbeat chest discomfort weakness,1
-41,0,0,142,317,90,chest pain shortness of breath fatigue dizziness,1
-69,1,3,113,327,204,chest pain shortness of breath fatigue dizziness,1
-75,1,3,90,257,149,pain in chest during exercise tiredness,1
-60,1,2,91,170,116,irregular heartbeat chest discomfort weakness,1
-58,0,0,189,182,95,chest pain shortness of breath fatigue dizziness,1
-80,0,3,120,268,98,chest pain shortness of breath fatigue dizziness,1
-83,0,0,94,166,113,healthy condition normal heart rate,0
-36,0,2,125,156,167,normal breathing no chest pain active lifestyle,0
-49,0,3,164,358,144,severe chest pressure sweating breathing difficulty,1
-79,1,1,93,221,109,no chest pain good activity level,0
-52,0,3,107,142,153,no chest pain good activity level,0
-57,0,2,116,193,169,healthy condition normal heart rate,0
-85,0,2,152,274,185,chest pain shortness of breath fatigue dizziness,1
-31,1,2,122,171,96,healthy condition normal heart rate,0
-69,1,1,180,289,140,chest pain shortness of breath fatigue dizziness,1
-26,1,2,95,364,146,no chest pain good activity level,0
-73,1,0,131,231,136,mild fatigue no major symptoms,0
-65,1,2,95,373,147,chest pain shortness of breath fatigue dizziness,1
-32,1,2,142,293,183,severe chest pressure sweating breathing difficulty,1
-39,1,3,92,352,153,healthy condition normal heart rate,0
-30,0,2,137,335,149,no chest pain good activity level,0
-71,1,2,128,168,164,healthy condition normal heart rate,0
-57,1,3,112,157,160,no chest pain good activity level,0
-84,0,0,162,352,102,severe chest pressure sweating breathing difficulty,1
-71,0,0,110,327,123,no chest pain good activity level,0
-57,0,0,122,241,91,chest pain shortness of breath fatigue dizziness,1
-82,0,2,177,291,94,severe chest pressure sweating breathing difficulty,1
-39,1,3,139,339,95,severe chest pressure sweating breathing difficulty,1
-65,0,2,128,357,146,pain in chest during exercise tiredness,1
-57,1,3,178,190,173,chest pain shortness of breath fatigue dizziness,1
-80,1,1,147,244,197,irregular heartbeat chest discomfort weakness,1
-73,0,3,190,343,130,irregular heartbeat chest discomfort weakness,1
-46,0,3,107,170,150,normal breathing no chest pain active lifestyle,0
-62,0,3,125,245,193,pain in chest during exercise tiredness,1
-65,0,3,158,259,111,pain in chest during exercise tiredness,1
-64,1,3,136,151,118,irregular heartbeat chest discomfort weakness,1
-36,0,0,135,303,182,mild fatigue no major symptoms,0
-44,1,0,95,277,114,no chest pain good activity level,0
-53,1,0,162,355,102,chest pain shortness of breath fatigue dizziness,1
-77,1,2,144,175,163,pain in chest during exercise tiredness,1
-85,1,3,102,145,112,pain in chest during exercise tiredness,1
-77,0,1,118,285,202,normal breathing no chest pain active lifestyle,0
-42,0,1,158,206,190,no chest pain good activity level,0
-46,1,0,190,159,171,no chest pain good activity level,0
-50,1,3,140,288,196,no chest pain good activity level,0
-60,0,0,161,168,139,no chest pain good activity level,0
-62,1,2,165,217,126,pain in chest during exercise tiredness,1
-36,1,3,118,155,91,healthy condition normal heart rate,0
-54,1,0,131,270,174,mild fatigue no major symptoms,0
-31,0,2,92,290,188,no chest pain good activity level,0
-38,1,0,132,250,186,no chest pain good activity level,0
-75,0,2,146,246,131,pain in chest during exercise tiredness,1
-64,1,0,168,179,93,severe chest pressure sweating breathing difficulty,1
-31,0,3,181,351,192,pain in chest during exercise tiredness,1
-49,1,2,94,338,91,irregular heartbeat chest discomfort weakness,1
-59,1,0,150,311,150,chest pain shortness of breath fatigue dizziness,1
-65,1,2,189,354,96,severe chest pressure sweating breathing difficulty,1
-79,1,3,179,159,191,severe chest pressure sweating breathing difficulty,1
-30,1,1,121,224,162,normal breathing no chest pain active lifestyle,0
-58,1,2,162,235,141,pain in chest during exercise tiredness,1
-78,0,0,101,326,113,irregular heartbeat chest discomfort weakness,1
-54,0,1,119,260,152,no chest pain good activity level,0
-46,1,3,187,206,111,severe chest pressure sweating breathing difficulty,1
-37,1,3,95,258,188,healthy condition normal heart rate,0
-84,1,2,151,273,166,irregular heartbeat chest discomfort weakness,1
-67,1,2,146,173,120,chest pain shortness of breath fatigue dizziness,1
-77,1,0,93,156,105,healthy condition normal heart rate,0
-78,1,2,158,219,193,irregular heartbeat chest discomfort weakness,1
-38,1,0,128,289,157,no chest pain good activity level,0
-53,1,1,98,301,123,healthy condition normal heart rate,0
-49,0,3,149,274,201,severe chest pressure sweating breathing difficulty,1
-71,0,0,102,213,204,normal breathing no chest pain active lifestyle,0
-33,0,0,146,214,118,normal breathing no chest pain active lifestyle,0
-50,0,2,171,232,115,chest pain shortness of breath fatigue dizziness,1
-75,0,1,146,151,98,severe chest pressure sweating breathing difficulty,1
-44,0,2,178,341,91,pain in chest during exercise tiredness,1
-74,1,2,162,180,114,chest pain shortness of breath fatigue dizziness,1
-57,1,2,153,295,93,pain in chest during exercise tiredness,1
-30,0,1,104,328,101,mild fatigue no major symptoms,0
-46,1,3,170,227,133,normal breathing no chest pain active lifestyle,0
-58,1,2,132,213,176,no chest pain good activity level,0
-65,0,2,190,339,203,irregular heartbeat chest discomfort weakness,1
-51,1,1,148,180,195,healthy condition normal heart rate,0
-33,1,1,173,369,153,healthy condition normal heart rate,0
-68,0,2,98,349,136,irregular heartbeat chest discomfort weakness,1
-41,0,3,165,255,100,irregular heartbeat chest discomfort weakness,1
-44,1,0,103,340,201,mild fatigue no major symptoms,0
-51,1,2,141,344,132,pain in chest during exercise tiredness,1
-33,0,1,92,290,104,normal breathing no chest pain active lifestyle,0
-64,1,0,109,149,191,normal breathing no chest pain active lifestyle,0
-50,1,1,172,303,112,pain in chest during exercise tiredness,1
-47,1,2,104,235,189,no chest pain good activity level,0
-73,1,1,101,348,152,mild fatigue no major symptoms,0
-41,1,3,139,293,91,chest pain shortness of breath fatigue dizziness,1
-33,0,3,103,221,96,healthy condition normal heart rate,0
-64,1,0,125,273,169,normal breathing no chest pain active lifestyle,0
-57,1,0,139,252,170,healthy condition normal heart rate,0
-54,1,2,108,168,121,healthy condition normal heart rate,0
-48,0,1,105,323,144,no chest pain good activity level,0
-29,0,3,157,185,132,no chest pain good activity level,0
-78,1,3,172,302,115,irregular heartbeat chest discomfort weakness,1
-70,1,1,141,299,170,severe chest pressure sweating breathing difficulty,1
-33,1,0,108,338,153,no chest pain good activity level,0
-42,0,3,150,220,204,healthy condition normal heart rate,0
-82,0,3,98,375,155,severe chest pressure sweating breathing difficulty,1
-55,1,0,111,203,202,normal breathing no chest pain active lifestyle,0
-25,1,2,183,217,200,mild fatigue no major symptoms,0
-29,1,3,121,379,127,mild fatigue no major symptoms,0
-49,0,2,152,378,112,pain in chest during exercise tiredness,1
-33,1,2,132,195,192,healthy condition normal heart rate,0
-46,1,2,186,349,146,pain in chest during exercise tiredness,1
-70,0,3,146,344,114,chest pain shortness of breath fatigue dizziness,1
-51,1,0,122,279,142,mild fatigue no major symptoms,0
-66,1,2,99,170,151,mild fatigue no major symptoms,0
-77,0,2,164,198,100,severe chest pressure sweating breathing difficulty,1
-60,1,1,138,241,119,severe chest pressure sweating breathing difficulty,1
-57,0,3,121,265,91,irregular heartbeat chest discomfort weakness,1
-26,0,2,102,310,178,healthy condition normal heart rate,0
-36,0,3,129,236,185,healthy condition normal heart rate,0
-35,1,0,103,303,200,healthy condition normal heart rate,0
-38,1,0,184,334,203,no chest pain good activity level,0
-30,1,1,104,293,205,healthy condition normal heart rate,0
-79,1,2,174,234,89,severe chest pressure sweating breathing difficulty,1
-64,0,3,136,280,94,irregular heartbeat chest discomfort weakness,1
-84,0,0,157,302,92,chest pain shortness of breath fatigue dizziness,1
-67,1,1,116,345,89,pain in chest during exercise tiredness,1
-30,0,3,160,229,165,no chest pain good activity level,0
-31,0,3,135,240,90,mild fatigue no major symptoms,0
-75,0,3,127,198,174,no chest pain good activity level,0
-33,1,3,161,235,172,mild fatigue no major symptoms,0
-56,1,1,162,298,138,chest pain shortness of breath fatigue dizziness,1
-33,1,1,159,240,121,healthy condition normal heart rate,0
-62,0,1,140,177,157,normal breathing no chest pain active lifestyle,0
-29,0,1,106,308,89,healthy condition normal heart rate,0
-33,1,1,104,179,94,mild fatigue no major symptoms,0
-61,0,2,111,167,150,healthy condition normal heart rate,0
-65,0,1,102,351,110,chest pain shortness of breath fatigue dizziness,1
-76,1,3,110,255,120,irregular heartbeat chest discomfort weakness,1
-29,0,1,172,198,122,mild fatigue no major symptoms,0
-57,1,0,162,375,133,severe chest pressure sweating breathing difficulty,1
-65,1,0,178,311,163,severe chest pressure sweating breathing difficulty,1
-35,0,3,172,174,133,mild fatigue no major symptoms,0
-51,0,2,102,205,110,no chest pain good activity level,0
-85,0,0,100,185,137,normal breathing no chest pain active lifestyle,0
-84,0,0,126,324,167,mild fatigue no major symptoms,0
-51,1,1,188,305,200,no chest pain good activity level,0
-75,1,3,120,167,161,normal breathing no chest pain active lifestyle,0
-56,1,1,91,280,88,chest pain shortness of breath fatigue dizziness,1
-38,1,0,90,182,185,no chest pain good activity level,0
-31,0,2,102,248,137,mild fatigue no major symptoms,0
-66,0,3,91,206,189,mild fatigue no major symptoms,0
-71,0,3,143,220,151,chest pain shortness of breath fatigue dizziness,1
-51,0,0,184,289,110,pain in chest during exercise tiredness,1
-70,1,1,176,376,137,irregular heartbeat chest discomfort weakness,1
-84,1,1,119,370,130,mild fatigue no major symptoms,0
-48,1,1,172,146,142,healthy condition normal heart rate,0
-37,0,3,99,237,117,normal breathing no chest pain active lifestyle,0
-78,0,1,189,287,163,chest pain shortness of breath fatigue dizziness,1
-61,0,0,100,163,190,healthy condition normal heart rate,0
-56,0,0,189,374,114,irregular heartbeat chest discomfort weakness,1
-43,0,3,170,221,181,healthy condition normal heart rate,0
-69,0,3,186,336,162,chest pain shortness of breath fatigue dizziness,1
-54,1,2,108,205,151,mild fatigue no major symptoms,0
-61,0,2,176,298,110,irregular heartbeat chest discomfort weakness,1
-81,0,3,174,218,127,irregular heartbeat chest discomfort weakness,1
-79,0,0,167,224,97,pain in chest during exercise tiredness,1
-50,0,0,157,235,125,no chest pain good activity level,0
-68,0,2,139,279,197,irregular heartbeat chest discomfort weakness,1
-67,1,0,137,188,153,healthy condition normal heart rate,0
-52,0,2,135,290,163,normal breathing no chest pain active lifestyle,0
-77,1,1,177,167,149,normal breathing no chest pain active lifestyle,0
-40,1,1,158,297,177,mild fatigue no major symptoms,0
-80,0,3,107,375,111,irregular heartbeat chest discomfort weakness,1
-77,1,1,173,311,166,pain in chest during exercise tiredness,1
-43,0,1,93,176,130,normal breathing no chest pain active lifestyle,0
-84,0,1,150,210,86,irregular heartbeat chest discomfort weakness,1
-63,1,1,166,362,127,irregular heartbeat chest discomfort weakness,1
-48,0,1,153,259,150,healthy condition normal heart rate,0
-33,0,1,140,195,86,mild fatigue no major symptoms,0
-76,0,1,142,287,145,severe chest pressure sweating breathing difficulty,1
-42,0,3,125,343,101,chest pain shortness of breath fatigue dizziness,1
-26,0,1,173,221,156,mild fatigue no major symptoms,0
-63,0,0,121,355,89,pain in chest during exercise tiredness,1
-28,1,1,120,333,147,no chest pain good activity level,0
-40,1,3,100,290,193,normal breathing no chest pain active lifestyle,0
-58,0,3,102,140,133,healthy condition normal heart rate,0
-59,0,0,187,346,192,irregular heartbeat chest discomfort weakness,1
-44,0,3,96,244,121,normal breathing no chest pain active lifestyle,0
-34,1,1,131,279,102,no chest pain good activity level,0
-78,1,1,125,323,131,normal breathing no chest pain active lifestyle,0
-41,1,2,183,347,170,irregular heartbeat chest discomfort weakness,1
-36,1,1,130,171,107,normal breathing no chest pain active lifestyle,0
-45,0,2,109,178,191,normal breathing no chest pain active lifestyle,0
-31,1,3,146,144,89,severe chest pressure sweating breathing difficulty,1
-76,0,3,185,198,121,pain in chest during exercise tiredness,1
-78,1,2,148,222,192,chest pain shortness of breath fatigue dizziness,1
-84,0,2,184,304,88,irregular heartbeat chest discomfort weakness,1
-85,1,2,183,171,177,severe chest pressure sweating breathing difficulty,1
-81,1,1,99,150,161,normal breathing no chest pain active lifestyle,0
-26,0,3,147,145,203,no chest pain good activity level,0
-77,0,2,104,255,201,pain in chest during exercise tiredness,1
-54,1,0,142,265,122,normal breathing no chest pain active lifestyle,0
-70,0,3,111,244,170,chest pain shortness of breath fatigue dizziness,1
-28,1,1,162,188,169,no chest pain good activity level,0
-82,0,3,190,327,129,irregular heartbeat chest discomfort weakness,1
-48,1,3,153,323,153,severe chest pressure sweating breathing difficulty,1
-79,0,1,101,202,100,healthy condition normal heart rate,0
-71,1,1,161,194,156,normal breathing no chest pain active lifestyle,0
-41,1,2,180,144,162,healthy condition normal heart rate,0
-48,0,0,107,328,96,normal breathing no chest pain active lifestyle,0
-70,0,2,188,318,101,severe chest pressure sweating breathing difficulty,1
-53,1,2,112,362,153,healthy condition normal heart rate,0
-75,1,3,189,208,197,chest pain shortness of breath fatigue dizziness,1
-33,1,2,165,163,127,healthy condition normal heart rate,0
-61,1,1,186,199,175,normal breathing no chest pain active lifestyle,0
-25,0,1,161,370,197,no chest pain good activity level,0
-78,1,0,153,353,175,severe chest pressure sweating breathing difficulty,1
-32,0,2,117,260,110,irregular heartbeat chest discomfort weakness,1
-70,0,1,129,143,104,mild fatigue no major symptoms,0
-79,0,3,136,279,175,chest pain shortness of breath fatigue dizziness,1
-65,1,1,157,318,114,pain in chest during exercise tiredness,1
-70,0,1,115,318,146,healthy condition normal heart rate,0
-47,1,2,92,166,88,mild fatigue no major symptoms,0
-30,1,1,185,341,116,severe chest pressure sweating breathing difficulty,1
-25,0,0,94,321,174,no chest pain good activity level,0
-57,1,0,155,238,128,normal breathing no chest pain active lifestyle,0
-57,0,2,173,203,127,pain in chest during exercise tiredness,1
-66,1,3,104,228,175,normal breathing no chest pain active lifestyle,0
-72,1,1,122,327,137,no chest pain good activity level,0
-37,0,3,157,206,164,healthy condition normal heart rate,0
-47,1,1,143,270,151,no chest pain good activity level,0
-48,0,1,149,171,92,mild fatigue no major symptoms,0
-82,1,2,183,296,160,severe chest pressure sweating breathing difficulty,1
-37,0,2,135,226,176,healthy condition normal heart rate,0
-67,0,2,114,196,89,irregular heartbeat chest discomfort weakness,1
-82,0,0,146,175,98,pain in chest during exercise tiredness,1
-65,1,3,136,150,148,mild fatigue no major symptoms,0
-28,1,3,120,360,155,no chest pain good activity level,0
-51,1,3,99,145,89,healthy condition normal heart rate,0
-35,0,3,129,230,181,healthy condition normal heart rate,0
-43,1,1,93,346,133,healthy condition normal heart rate,0
-78,1,3,185,199,151,irregular heartbeat chest discomfort weakness,1
-53,0,3,150,374,196,pain in chest during exercise tiredness,1
-85,0,3,152,275,125,chest pain shortness of breath fatigue dizziness,1
-68,1,0,135,346,96,irregular heartbeat chest discomfort weakness,1
-40,1,2,165,173,103,pain in chest during exercise tiredness,1
-66,0,0,99,339,197,healthy condition normal heart rate,0
-54,1,2,107,181,153,mild fatigue no major symptoms,0
-33,1,3,120,223,89,healthy condition normal heart rate,0
-30,1,1,171,207,93,mild fatigue no major symptoms,0
-75,0,0,113,302,205,no chest pain good activity level,0
-38,0,0,181,352,106,pain in chest during exercise tiredness,1
-73,0,3,155,279,136,pain in chest during exercise tiredness,1
-55,0,1,179,258,175,normal breathing no chest pain active lifestyle,0
-59,0,0,112,165,137,no chest pain good activity level,0
-77,0,2,143,367,201,irregular heartbeat chest discomfort weakness,1
-36,0,2,122,338,94,severe chest pressure sweating breathing difficulty,1
-42,0,1,116,291,120,mild fatigue no major symptoms,0
-50,0,0,135,175,136,no chest pain good activity level,0
-74,1,1,154,154,195,no chest pain good activity level,0
-42,0,3,145,141,162,normal breathing no chest pain active lifestyle,0
-37,0,2,177,376,90,pain in chest during exercise tiredness,1
-43,1,2,123,320,193,normal breathing no chest pain active lifestyle,0
-72,1,3,112,331,131,chest pain shortness of breath fatigue dizziness,1
-34,0,3,145,318,86,severe chest pressure sweating breathing difficulty,1
-64,1,1,129,156,201,normal breathing no chest pain active lifestyle,0
-78,1,0,107,247,172,normal breathing no chest pain active lifestyle,0
-42,0,0,99,331,197,mild fatigue no major symptoms,0
-38,0,0,186,178,152,healthy condition normal heart rate,0
-85,1,2,93,145,110,irregular heartbeat chest discomfort weakness,1
-73,0,2,159,236,126,irregular heartbeat chest discomfort weakness,1
-54,1,0,123,171,173,healthy condition normal heart rate,0
-80,1,2,145,318,126,severe chest pressure sweating breathing difficulty,1
-83,0,1,152,312,101,severe chest pressure sweating breathing difficulty,1
-58,1,0,126,261,164,no chest pain good activity level,0
-68,1,2,182,338,200,pain in chest during exercise tiredness,1
-80,1,2,101,260,158,severe chest pressure sweating breathing difficulty,1
-47,1,1,136,287,135,no chest pain good activity level,0
-44,0,2,156,247,108,irregular heartbeat chest discomfort weakness,1
-77,1,1,175,155,146,no chest pain good activity level,0
-25,1,3,163,213,164,no chest pain good activity level,0
-65,0,1,110,370,142,mild fatigue no major symptoms,0
-48,0,3,160,273,195,pain in chest during exercise tiredness,1
-70,1,3,107,256,170,chest pain shortness of breath fatigue dizziness,1
-27,1,0,91,322,201,normal breathing no chest pain active lifestyle,0
-36,0,0,147,350,196,healthy condition normal heart rate,0
-55,1,3,125,330,93,severe chest pressure sweating breathing difficulty,1
-25,0,1,134,242,173,mild fatigue no major symptoms,0
-74,0,3,185,348,149,severe chest pressure sweating breathing difficulty,1
-58,0,1,182,217,119,pain in chest during exercise tiredness,1
-51,0,2,146,356,143,irregular heartbeat chest discomfort weakness,1
-33,1,1,185,287,185,mild fatigue no major symptoms,0
-76,0,0,169,372,157,irregular heartbeat chest discomfort weakness,1
-56,1,1,157,175,152,no chest pain good activity level,0
-56,1,1,156,182,103,chest pain shortness of breath fatigue dizziness,1
-44,0,0,92,201,190,healthy condition normal heart rate,0
-49,1,1,118,175,90,normal breathing no chest pain active lifestyle,0
-44,1,0,148,157,163,healthy condition normal heart rate,0
-47,0,1,189,173,119,mild fatigue no major symptoms,0
-29,0,3,122,170,138,healthy condition normal heart rate,0
-28,0,3,181,190,107,severe chest pressure sweating breathing difficulty,1
-53,0,1,166,151,132,normal breathing no chest pain active lifestyle,0
-33,0,2,119,306,88,pain in chest during exercise tiredness,1
-80,0,1,186,157,155,no chest pain good activity level,0
-64,1,1,168,380,200,pain in chest during exercise tiredness,1
-70,1,2,101,173,185,mild fatigue no major symptoms,0
-62,1,0,150,290,160,chest pain shortness of breath fatigue dizziness,1
-50,0,3,99,174,157,normal breathing no chest pain active lifestyle,0
-78,0,2,176,280,173,pain in chest during exercise tiredness,1
-62,0,2,145,158,174,severe chest pressure sweating breathing difficulty,1
-69,0,3,112,343,94,severe chest pressure sweating breathing difficulty,1
-70,0,1,147,303,92,chest pain shortness of breath fatigue dizziness,1
-65,0,1,151,200,140,normal breathing no chest pain active lifestyle,0
-35,1,2,125,177,178,mild fatigue no major symptoms,0
-84,1,1,189,346,164,irregular heartbeat chest discomfort weakness,1
-46,1,2,100,210,130,mild fatigue no major symptoms,0
-48,0,0,137,194,114,healthy condition normal heart rate,0
-53,0,3,92,281,97,chest pain shortness of breath fatigue dizziness,1
-54,1,1,166,323,89,chest pain shortness of breath fatigue dizziness,1
-34,0,1,166,372,153,no chest pain good activity level,0
-46,0,0,118,345,192,healthy condition normal heart rate,0
-58,1,0,103,342,104,irregular heartbeat chest discomfort weakness,1
-74,0,3,95,261,189,chest pain shortness of breath fatigue dizziness,1
-67,1,3,132,367,199,irregular heartbeat chest discomfort weakness,1
-50,1,1,103,350,163,normal breathing no chest pain active lifestyle,0
-34,0,2,181,275,148,irregular heartbeat chest discomfort weakness,1
-64,0,1,102,167,137,no chest pain good activity level,0
-32,1,2,160,352,124,pain in chest during exercise tiredness,1
-58,1,1,171,254,188,pain in chest during exercise tiredness,1
-42,0,3,177,378,195,severe chest pressure sweating breathing difficulty,1
-26,0,0,98,192,106,healthy condition normal heart rate,0
-63,1,3,97,270,202,pain in chest during exercise tiredness,1
-53,1,2,167,240,110,irregular heartbeat chest discomfort weakness,1
-66,1,0,166,267,165,pain in chest during exercise tiredness,1
-68,0,1,136,187,205,no chest pain good activity level,0
-73,1,2,189,380,168,chest pain shortness of breath fatigue dizziness,1
-54,0,2,172,251,90,chest pain shortness of breath fatigue dizziness,1
-54,1,0,98,181,119,mild fatigue no major symptoms,0
-67,0,2,90,161,186,mild fatigue no major symptoms,0
-55,1,3,165,207,96,severe chest pressure sweating breathing difficulty,1
-41,0,2,180,142,168,no chest pain good activity level,0
-43,1,2,100,320,146,no chest pain good activity level,0
-25,0,1,144,205,176,normal breathing no chest pain active lifestyle,0
-73,1,3,181,161,200,pain in chest during exercise tiredness,1
-37,1,0,108,370,170,normal breathing no chest pain active lifestyle,0
-81,1,1,128,323,104,pain in chest during exercise tiredness,1
-34,0,1,108,320,113,no chest pain good activity level,0
-47,0,1,179,225,85,healthy condition normal heart rate,0
-32,1,2,94,160,136,mild fatigue no major symptoms,0
-42,0,2,164,251,166,pain in chest during exercise tiredness,1
-43,1,0,96,338,129,mild fatigue no major symptoms,0
-71,1,0,120,242,141,mild fatigue no major symptoms,0
-65,0,3,149,219,116,severe chest pressure sweating breathing difficulty,1
-27,0,0,106,161,174,no chest pain good activity level,0
-54,0,2,158,308,188,irregular heartbeat chest discomfort weakness,1
-32,1,1,156,203,104,healthy condition normal heart rate,0
-60,0,2,156,242,143,chest pain shortness of breath fatigue dizziness,1
-56,0,3,156,253,178,pain in chest during exercise tiredness,1
-83,0,2,114,284,111,pain in chest during exercise tiredness,1
-43,0,1,170,230,199,normal breathing no chest pain active lifestyle,0
-54,1,0,114,205,199,mild fatigue no major symptoms,0
-82,0,0,185,370,181,severe chest pressure sweating breathing difficulty,1
-60,0,1,148,310,106,irregular heartbeat chest discomfort weakness,1
-25,0,2,145,353,141,chest pain shortness of breath fatigue dizziness,1
-39,0,2,184,226,111,irregular heartbeat chest discomfort weakness,1
-79,1,0,153,275,125,irregular heartbeat chest discomfort weakness,1
-59,0,3,182,361,176,irregular heartbeat chest discomfort weakness,1
-61,0,2,161,256,123,irregular heartbeat chest discomfort weakness,1
-44,0,3,167,186,198,mild fatigue no major symptoms,0
-41,0,3,143,214,166,healthy condition normal heart rate,0
-50,1,0,117,234,137,healthy condition normal heart rate,0
-70,0,3,152,271,143,pain in chest during exercise tiredness,1
-36,0,3,178,305,99,severe chest pressure sweating breathing difficulty,1
-49,0,0,127,175,157,healthy condition normal heart rate,0
-46,0,3,94,172,132,mild fatigue no major symptoms,0
-54,1,2,154,350,173,chest pain shortness of breath fatigue dizziness,1
-78,1,1,105,246,149,healthy condition normal heart rate,0
-58,1,2,149,186,177,chest pain shortness of breath fatigue dizziness,1
-28,1,0,130,190,97,mild fatigue no major symptoms,0
-26,0,3,118,363,94,chest pain shortness of breath fatigue dizziness,1
-41,1,3,184,240,90,irregular heartbeat chest discomfort weakness,1
-63,0,3,120,302,173,pain in chest during exercise tiredness,1
-63,0,3,182,153,142,chest pain shortness of breath fatigue dizziness,1
-77,0,3,116,282,128,pain in chest during exercise tiredness,1
-70,0,3,159,362,87,irregular heartbeat chest discomfort weakness,1
-53,1,2,166,379,88,chest pain shortness of breath fatigue dizziness,1
-64,1,2,135,298,109,chest pain shortness of breath fatigue dizziness,1
-32,1,1,176,270,124,no chest pain good activity level,0
-49,0,2,190,285,183,chest pain shortness of breath fatigue dizziness,1
-54,1,2,161,240,160,normal breathing no chest pain active lifestyle,0
-26,0,1,109,227,164,normal breathing no chest pain active lifestyle,0
-43,1,2,155,319,102,chest pain shortness of breath fatigue dizziness,1
-85,0,1,107,327,131,normal breathing no chest pain active lifestyle,0
-53,1,2,175,353,123,severe chest pressure sweating breathing difficulty,1
-64,0,0,169,339,136,pain in chest during exercise tiredness,1
-34,0,0,142,374,99,pain in chest during exercise tiredness,1
-56,0,3,171,240,113,severe chest pressure sweating breathing difficulty,1
-72,0,3,157,296,177,severe chest pressure sweating breathing difficulty,1
-72,0,0,129,361,166,healthy condition normal heart rate,0
-76,1,1,95,303,193,normal breathing no chest pain active lifestyle,0
-46,0,2,98,206,204,normal breathing no chest pain active lifestyle,0
-63,0,3,109,290,103,chest pain shortness of breath fatigue dizziness,1
-62,0,1,122,311,189,no chest pain good activity level,0
-60,0,3,108,360,179,irregular heartbeat chest discomfort weakness,1
-75,1,1,97,258,94,chest pain shortness of breath fatigue dizziness,1
-54,1,3,163,149,146,no chest pain good activity level,0
-77,0,3,160,194,92,severe chest pressure sweating breathing difficulty,1
-29,1,3,94,277,108,pain in chest during exercise tiredness,1
-46,1,1,166,316,157,mild fatigue no major symptoms,0
-56,1,0,114,305,90,severe chest pressure sweating breathing difficulty,1
-47,0,0,139,263,92,healthy condition normal heart rate,0
-50,0,3,91,371,138,no chest pain good activity level,0
-85,1,1,99,299,131,healthy condition normal heart rate,0
-53,1,3,175,333,152,chest pain shortness of breath fatigue dizziness,1
-53,0,3,99,170,132,healthy condition normal heart rate,0
-67,0,2,109,263,100,chest pain shortness of breath fatigue dizziness,1
-66,1,1,187,330,184,severe chest pressure sweating breathing difficulty,1
-58,0,1,145,351,94,pain in chest during exercise tiredness,1
-85,1,3,181,344,159,chest pain shortness of breath fatigue dizziness,1
-80,0,2,148,277,174,severe chest pressure sweating breathing difficulty,1
-65,1,0,160,140,99,chest pain shortness of breath fatigue dizziness,1
-41,0,0,125,235,100,normal breathing no chest pain active lifestyle,0
-64,1,1,181,190,129,normal breathing no chest pain active lifestyle,0
-72,0,0,99,144,182,no chest pain good activity level,0
-47,0,0,147,208,127,no chest pain good activity level,0
-34,1,3,131,267,103,severe chest pressure sweating breathing difficulty,1
-52,0,1,98,315,130,healthy condition normal heart rate,0
-76,1,3,112,304,121,chest pain shortness of breath fatigue dizziness,1
-58,0,1,128,269,100,severe chest pressure sweating breathing difficulty,1
-65,0,2,168,357,159,pain in chest during exercise tiredness,1
-47,0,0,131,221,170,normal breathing no chest pain active lifestyle,0
-83,0,2,116,233,182,healthy condition normal heart rate,0
-83,1,2,132,239,114,irregular heartbeat chest discomfort weakness,1
-65,0,0,112,283,181,healthy condition normal heart rate,0
-54,1,3,156,340,114,severe chest pressure sweating breathing difficulty,1
-75,0,2,126,335,113,irregular heartbeat chest discomfort weakness,1
-30,1,1,154,204,179,healthy condition normal heart rate,0
-37,1,1,153,287,123,healthy condition normal heart rate,0
-47,1,2,140,182,87,normal breathing no chest pain active lifestyle,0
-27,1,1,110,322,163,healthy condition normal heart rate,0
-51,1,0,114,344,129,normal breathing no chest pain active lifestyle,0
-42,0,3,135,325,95,chest pain shortness of breath fatigue dizziness,1
-81,0,3,113,321,186,severe chest pressure sweating breathing difficulty,1
-32,1,0,138,269,124,healthy condition normal heart rate,0
-62,0,3,170,350,142,severe chest pressure sweating breathing difficulty,1
-68,1,2,92,234,116,chest pain shortness of breath fatigue dizziness,1
-47,1,3,167,164,201,normal breathing no chest pain active lifestyle,0
-41,1,0,173,374,192,no chest pain good activity level,0
-27,0,0,134,233,88,normal breathing no chest pain active lifestyle,0
-74,0,1,179,161,89,pain in chest during exercise tiredness,1
-70,1,0,132,330,123,no chest pain good activity level,0
-43,1,1,100,359,113,mild fatigue no major symptoms,0
-53,1,1,152,278,114,irregular heartbeat chest discomfort weakness,1
-38,0,1,90,161,169,no chest pain good activity level,0
-76,1,0,147,310,162,severe chest pressure sweating breathing difficulty,1
-52,0,3,171,205,135,healthy condition normal heart rate,0
-59,0,0,132,260,173,mild fatigue no major symptoms,0
-47,1,2,121,238,199,mild fatigue no major symptoms,0
-75,0,1,126,300,198,normal breathing no chest pain active lifestyle,0
-34,0,0,133,234,168,normal breathing no chest pain active lifestyle,0
-64,1,1,158,213,181,normal breathing no chest pain active lifestyle,0
-73,0,0,123,351,119,severe chest pressure sweating breathing difficulty,1
-81,0,0,105,245,119,chest pain shortness of breath fatigue dizziness,1
-42,1,2,107,347,145,no chest pain good activity level,0
-47,1,3,101,272,192,healthy condition normal heart rate,0
-78,1,3,187,331,195,irregular heartbeat chest discomfort weakness,1
-80,0,2,143,333,85,pain in chest during exercise tiredness,1
-56,0,2,98,250,105,irregular heartbeat chest discomfort weakness,1
-31,1,1,173,202,199,no chest pain good activity level,0
-60,0,3,101,373,131,severe chest pressure sweating breathing difficulty,1
-60,1,1,173,370,198,irregular heartbeat chest discomfort weakness,1
-66,0,3,174,329,109,chest pain shortness of breath fatigue dizziness,1
-85,1,1,184,313,145,severe chest pressure sweating breathing difficulty,1
-56,0,2,98,271,156,chest pain shortness of breath fatigue dizziness,1
-70,0,1,129,357,119,irregular heartbeat chest discomfort weakness,1
-27,1,3,190,328,107,chest pain shortness of breath fatigue dizziness,1
-62,1,0,98,307,106,chest pain shortness of breath fatigue dizziness,1
-33,1,2,144,377,101,severe chest pressure sweating breathing difficulty,1
-77,1,1,110,348,92,severe chest pressure sweating breathing difficulty,1
-38,1,2,137,175,203,healthy condition normal heart rate,0
-60,1,0,103,173,168,healthy condition normal heart rate,0
-30,1,1,176,163,186,no chest pain good activity level,0
-68,1,0,112,145,167,healthy condition normal heart rate,0
-79,1,3,110,156,134,mild fatigue no major symptoms,0
-32,0,0,165,155,168,mild fatigue no major symptoms,0
-71,1,2,161,305,135,severe chest pressure sweating breathing difficulty,1
-72,0,3,155,235,129,pain in chest during exercise tiredness,1
-83,1,1,154,195,188,mild fatigue no major symptoms,0
-66,1,3,118,216,203,no chest pain good activity level,0
-68,1,3,110,335,169,severe chest pressure sweating breathing difficulty,1
-75,1,1,95,189,85,mild fatigue no major symptoms,0
-51,1,1,94,297,191,normal breathing no chest pain active lifestyle,0
-71,0,1,112,184,130,no chest pain good activity level,0
-33,0,2,115,246,200,no chest pain good activity level,0
-73,0,1,167,253,200,chest pain shortness of breath fatigue dizziness,1
-60,1,0,167,213,189,mild fatigue no major symptoms,0
-84,1,0,143,147,138,no chest pain good activity level,0
-65,1,0,145,174,149,normal breathing no chest pain active lifestyle,0
-73,1,1,168,339,107,pain in chest during exercise tiredness,1
-56,0,3,190,174,94,pain in chest during exercise tiredness,1
-59,1,3,137,234,86,severe chest pressure sweating breathing difficulty,1
-59,0,1,172,164,167,mild fatigue no major symptoms,0
-56,0,2,151,155,93,severe chest pressure sweating breathing difficulty,1
-66,1,0,188,259,145,pain in chest during exercise tiredness,1
-39,0,0,168,142,123,normal breathing no chest pain active lifestyle,0
-35,0,1,137,213,158,no chest pain good activity level,0
-60,1,0,147,246,111,chest pain shortness of breath fatigue dizziness,1
-25,1,2,165,298,94,severe chest pressure sweating breathing difficulty,1
-73,0,2,167,332,91,severe chest pressure sweating breathing difficulty,1
-82,0,2,139,168,96,irregular heartbeat chest discomfort weakness,1
-32,0,0,124,188,156,healthy condition normal heart rate,0
-66,1,1,176,282,109,irregular heartbeat chest discomfort weakness,1
-55,1,0,132,277,163,mild fatigue no major symptoms,0
-48,0,2,92,239,190,mild fatigue no major symptoms,0
-83,0,0,107,195,184,no chest pain good activity level,0
-57,1,0,154,351,94,irregular heartbeat chest discomfort weakness,1
-81,1,3,137,220,157,normal breathing no chest pain active lifestyle,0
-81,1,0,104,236,204,no chest pain good activity level,0
-74,0,3,116,268,156,chest pain shortness of breath fatigue dizziness,1
-65,0,3,178,168,150,irregular heartbeat chest discomfort weakness,1
-55,1,2,163,163,194,mild fatigue no major symptoms,0
-76,1,3,160,295,104,irregular heartbeat chest discomfort weakness,1
-63,1,1,139,325,195,healthy condition normal heart rate,0
-79,1,3,168,188,159,irregular heartbeat chest discomfort weakness,1
-61,0,0,99,143,185,healthy condition normal heart rate,0
-72,1,2,133,247,105,chest pain shortness of breath fatigue dizziness,1
-45,1,0,182,342,103,chest pain shortness of breath fatigue dizziness,1
-69,0,1,99,255,184,healthy condition normal heart rate,0
-82,0,3,118,265,196,chest pain shortness of breath fatigue dizziness,1
-73,1,1,181,182,167,normal breathing no chest pain active lifestyle,0
-80,1,0,175,304,165,pain in chest during exercise tiredness,1
-59,0,3,123,349,131,severe chest pressure sweating breathing difficulty,1
-25,0,0,147,207,129,mild fatigue no major symptoms,0
-65,1,0,154,282,114,pain in chest during exercise tiredness,1
-60,0,0,129,227,165,mild fatigue no major symptoms,0
-49,1,0,99,333,106,normal breathing no chest pain active lifestyle,0
-82,0,0,190,166,186,healthy condition normal heart rate,0
-74,0,2,111,280,106,severe chest pressure sweating breathing difficulty,1
-30,0,1,182,360,125,healthy condition normal heart rate,0
-81,1,1,157,249,203,irregular heartbeat chest discomfort weakness,1
-79,1,0,128,308,114,chest pain shortness of breath fatigue dizziness,1
-46,0,2,175,340,86,severe chest pressure sweating breathing difficulty,1
-59,1,0,119,222,175,no chest pain good activity level,0
-85,0,1,184,145,93,pain in chest during exercise tiredness,1
-83,1,0,124,307,133,mild fatigue no major symptoms,0
-28,1,0,163,241,138,normal breathing no chest pain active lifestyle,0
-75,1,3,152,208,177,severe chest pressure sweating breathing difficulty,1
-57,1,3,145,163,189,pain in chest during exercise tiredness,1
-77,1,1,174,290,142,irregular heartbeat chest discomfort weakness,1
-37,1,1,142,208,203,normal breathing no chest pain active lifestyle,0
-68,0,1,117,360,110,chest pain shortness of breath fatigue dizziness,1
-65,1,0,181,334,118,irregular heartbeat chest discomfort weakness,1
-75,0,0,170,183,181,mild fatigue no major symptoms,0
-63,0,1,128,192,189,no chest pain good activity level,0
-68,0,1,96,264,178,no chest pain good activity level,0
-83,1,2,130,283,107,chest pain shortness of breath fatigue dizziness,1
-34,0,0,148,339,162,mild fatigue no major symptoms,0
-28,1,2,114,232,137,normal breathing no chest pain active lifestyle,0
-74,1,0,178,238,171,normal breathing no chest pain active lifestyle,0
-52,0,3,130,355,159,mild fatigue no major symptoms,0
-69,1,3,93,330,170,severe chest pressure sweating breathing difficulty,1
-73,0,1,122,160,186,no chest pain good activity level,0
-64,0,0,175,175,108,pain in chest during exercise tiredness,1
-30,1,2,148,332,93,chest pain shortness of breath fatigue dizziness,1
-64,1,3,161,218,120,pain in chest during exercise tiredness,1
-39,1,2,114,190,182,normal breathing no chest pain active lifestyle,0
-67,1,2,175,291,114,irregular heartbeat chest discomfort weakness,1
-74,1,0,153,172,138,healthy condition normal heart rate,0
-59,0,0,128,182,121,mild fatigue no major symptoms,0
-36,1,1,155,202,145,no chest pain good activity level,0
-52,0,2,102,267,147,no chest pain good activity level,0
-33,0,1,169,213,113,healthy condition normal heart rate,0
-67,1,1,129,293,99,pain in chest during exercise tiredness,1
-56,0,1,151,173,151,mild fatigue no major symptoms,0
-55,1,1,123,271,120,normal breathing no chest pain active lifestyle,0
-41,0,3,90,296,119,severe chest pressure sweating breathing difficulty,1
-46,1,1,130,207,119,healthy condition normal heart rate,0
-72,1,2,123,182,103,chest pain shortness of breath fatigue dizziness,1
-44,0,1,177,281,166,no chest pain good activity level,0
-27,1,0,184,363,148,healthy condition normal heart rate,0
-50,1,3,129,277,193,mild fatigue no major symptoms,0
-74,0,2,181,192,196,severe chest pressure sweating breathing difficulty,1
-61,1,0,132,194,191,mild fatigue no major symptoms,0
-52,0,3,187,282,94,severe chest pressure sweating breathing difficulty,1
-83,1,3,138,175,140,normal breathing no chest pain active lifestyle,0
-80,0,1,144,250,103,chest pain shortness of breath fatigue dizziness,1
-62,0,2,159,197,100,chest pain shortness of breath fatigue dizziness,1
-69,0,0,122,186,117,no chest pain good activity level,0
-81,0,0,183,215,149,healthy condition normal heart rate,0
-74,0,1,153,316,85,severe chest pressure sweating breathing difficulty,1
-63,1,2,182,236,147,irregular heartbeat chest discomfort weakness,1
-34,1,0,157,338,194,no chest pain good activity level,0
-54,0,0,102,273,142,normal breathing no chest pain active lifestyle,0
-60,0,3,186,348,134,irregular heartbeat chest discomfort weakness,1
-31,1,3,96,318,130,healthy condition normal heart rate,0
-38,0,1,114,236,159,healthy condition normal heart rate,0
-74,1,1,118,378,85,severe chest pressure sweating breathing difficulty,1
-45,0,2,185,236,100,severe chest pressure sweating breathing difficulty,1
-33,1,0,146,217,140,normal breathing no chest pain active lifestyle,0
-75,0,2,169,161,202,chest pain shortness of breath fatigue dizziness,1
-69,0,1,156,149,185,mild fatigue no major symptoms,0
-27,0,2,166,175,156,mild fatigue no major symptoms,0
-40,1,0,187,355,87,severe chest pressure sweating breathing difficulty,1
-43,0,0,149,344,198,normal breathing no chest pain active lifestyle,0
-78,1,1,128,325,120,mild fatigue no major symptoms,0
-54,0,0,107,297,204,healthy condition normal heart rate,0
-76,0,2,182,336,148,chest pain shortness of breath fatigue dizziness,1
-74,1,2,121,281,89,severe chest pressure sweating breathing difficulty,1
-25,1,3,114,293,129,no chest pain good activity level,0
-80,1,1,101,238,202,mild fatigue no major symptoms,0
-28,0,0,114,276,123,healthy condition normal heart rate,0
-29,0,2,106,197,107,no chest pain good activity level,0
-35,0,1,187,152,169,normal breathing no chest pain active lifestyle,0
-28,1,0,113,353,95,mild fatigue no major symptoms,0
-51,0,1,126,241,177,mild fatigue no major symptoms,0
-60,0,3,116,229,136,no chest pain good activity level,0
-69,0,3,189,359,98,chest pain shortness of breath fatigue dizziness,1
-30,0,0,104,269,164,healthy condition normal heart rate,0
-50,0,3,93,147,166,healthy condition normal heart rate,0
-42,0,2,162,183,202,normal breathing no chest pain active lifestyle,0
-83,1,3,177,169,172,pain in chest during exercise tiredness,1
-28,1,2,178,206,119,irregular heartbeat chest discomfort weakness,1
-64,1,1,131,279,152,no chest pain good activity level,0
-84,1,2,92,369,90,chest pain shortness of breath fatigue dizziness,1
-28,0,3,148,333,134,severe chest pressure sweating breathing difficulty,1
-82,0,2,188,193,129,pain in chest during exercise tiredness,1
-53,0,1,142,253,147,healthy condition normal heart rate,0
-31,0,1,112,356,151,no chest pain good activity level,0
-71,1,1,181,323,114,chest pain shortness of breath fatigue dizziness,1
-32,0,3,142,187,148,no chest pain good activity level,0
-70,0,3,119,175,129,normal breathing no chest pain active lifestyle,0
-52,0,1,103,327,141,healthy condition normal heart rate,0
-31,1,3,163,302,166,severe chest pressure sweating breathing difficulty,1
-26,1,3,104,205,161,healthy condition normal heart rate,0
-38,0,0,136,244,169,no chest pain good activity level,0
-85,1,3,174,288,103,chest pain shortness of breath fatigue dizziness,1
-78,1,2,155,262,146,severe chest pressure sweating breathing difficulty,1
-51,0,2,108,269,108,severe chest pressure sweating breathing difficulty,1
-60,1,1,117,277,97,severe chest pressure sweating breathing difficulty,1
-33,1,3,150,307,89,irregular heartbeat chest discomfort weakness,1
-50,0,1,141,148,190,no chest pain good activity level,0
-57,0,1,128,201,147,mild fatigue no major symptoms,0
-26,1,1,153,226,90,normal breathing no chest pain active lifestyle,0
-59,1,1,95,192,189,no chest pain good activity level,0
-77,0,1,166,346,126,severe chest pressure sweating breathing difficulty,1
-82,0,3,173,309,104,irregular heartbeat chest discomfort weakness,1
-53,0,1,149,336,183,mild fatigue no major symptoms,0
-64,1,2,183,263,204,pain in chest during exercise tiredness,1
-85,0,0,116,185,99,mild fatigue no major symptoms,0
-59,1,3,158,356,176,irregular heartbeat chest discomfort weakness,1
-31,0,1,100,342,169,no chest pain good activity level,0
-34,0,2,174,310,99,irregular heartbeat chest discomfort weakness,1
-50,1,3,184,186,141,no chest pain good activity level,0
-27,1,2,147,357,169,pain in chest during exercise tiredness,1
-69,0,0,190,343,107,severe chest pressure sweating breathing difficulty,1
-60,0,3,154,154,188,severe chest pressure sweating breathing difficulty,1
-76,0,2,153,194,147,severe chest pressure sweating breathing difficulty,1
-39,1,0,130,212,204,normal breathing no chest pain active lifestyle,0
-74,1,1,176,159,105,chest pain shortness of breath fatigue dizziness,1
-26,1,0,168,196,198,healthy condition normal heart rate,0
-29,1,2,139,378,146,healthy condition normal heart rate,0
-60,1,3,126,311,127,irregular heartbeat chest discomfort weakness,1
-43,0,0,189,177,183,normal breathing no chest pain active lifestyle,0
-50,1,0,116,275,201,no chest pain good activity level,0
-34,1,1,140,174,201,healthy condition normal heart rate,0
-33,1,3,175,373,168,severe chest pressure sweating breathing difficulty,1
-53,1,0,94,252,120,mild fatigue no major symptoms,0
-30,0,2,111,307,127,normal breathing no chest pain active lifestyle,0
-42,0,3,113,291,162,no chest pain good activity level,0
-63,0,3,187,168,183,irregular heartbeat chest discomfort weakness,1
-36,1,2,90,313,117,pain in chest during exercise tiredness,1
-69,0,2,91,145,175,no chest pain good activity level,0
-81,0,2,139,368,103,chest pain shortness of breath fatigue dizziness,1
-30,1,3,107,249,121,no chest pain good activity level,0
-59,0,3,148,361,150,pain in chest during exercise tiredness,1
-42,0,3,188,192,202,mild fatigue no major symptoms,0
-71,1,1,135,324,200,mild fatigue no major symptoms,0
-62,0,0,163,362,158,pain in chest during exercise tiredness,1
-34,1,2,141,176,134,mild fatigue no major symptoms,0
-52,0,0,105,378,141,normal breathing no chest pain active lifestyle,0
-82,1,1,110,280,90,pain in chest during exercise tiredness,1
-30,0,2,101,364,141,normal breathing no chest pain active lifestyle,0
-71,1,1,131,206,116,healthy condition normal heart rate,0
-48,0,3,113,169,109,healthy condition normal heart rate,0
-53,0,0,137,185,185,healthy condition normal heart rate,0
-25,1,1,154,195,134,no chest pain good activity level,0
-37,0,3,135,199,127,normal breathing no chest pain active lifestyle,0
-41,0,3,128,161,90,mild fatigue no major symptoms,0
-65,0,1,161,306,163,pain in chest during exercise tiredness,1
-85,1,3,91,142,153,normal breathing no chest pain active lifestyle,0
-72,1,0,148,325,94,severe chest pressure sweating breathing difficulty,1
-80,1,2,109,163,120,healthy condition normal heart rate,0
-66,1,1,149,280,157,irregular heartbeat chest discomfort weakness,1
-65,0,1,122,224,93,no chest pain good activity level,0
-46,1,2,120,270,188,healthy condition normal heart rate,0
-82,1,0,140,243,161,normal breathing no chest pain active lifestyle,0
-25,0,1,167,189,120,mild fatigue no major symptoms,0
-72,0,3,105,169,180,healthy condition normal heart rate,0
-41,0,0,131,155,110,healthy condition normal heart rate,0
-51,0,1,110,356,130,mild fatigue no major symptoms,0
-54,1,3,168,160,159,no chest pain good activity level,0
-79,0,3,121,239,129,healthy condition normal heart rate,0
-25,1,3,154,282,110,irregular heartbeat chest discomfort weakness,1
-75,0,3,114,245,188,pain in chest during exercise tiredness,1
-41,1,1,180,276,202,healthy condition normal heart rate,0
-54,1,2,99,284,151,mild fatigue no major symptoms,0
-66,0,1,171,144,134,healthy condition normal heart rate,0
-31,1,1,151,166,134,mild fatigue no major symptoms,0
-73,1,1,98,283,147,normal breathing no chest pain active lifestyle,0
-26,0,2,182,322,201,irregular heartbeat chest discomfort weakness,1
-79,0,2,162,165,101,severe chest pressure sweating breathing difficulty,1
-53,0,3,131,204,145,no chest pain good activity level,0
-46,0,3,108,328,174,normal breathing no chest pain active lifestyle,0
-41,0,3,182,141,120,healthy condition normal heart rate,0
-81,1,1,175,243,205,irregular heartbeat chest discomfort weakness,1
-68,0,1,136,218,114,no chest pain good activity level,0
-49,1,1,139,186,122,normal breathing no chest pain active lifestyle,0
-80,0,3,131,187,99,irregular heartbeat chest discomfort weakness,1
-26,0,1,100,284,123,mild fatigue no major symptoms,0
-56,1,3,160,323,113,pain in chest during exercise tiredness,1
-38,1,2,127,273,151,normal breathing no chest pain active lifestyle,0
-71,0,2,92,252,136,severe chest pressure sweating breathing difficulty,1
-45,1,2,148,224,156,normal breathing no chest pain active lifestyle,0
-33,0,1,187,146,179,no chest pain good activity level,0
-67,0,2,94,234,140,normal breathing no chest pain active lifestyle,0
-82,0,0,113,199,200,normal breathing no chest pain active lifestyle,0
-70,1,0,144,213,88,pain in chest during exercise tiredness,1
-76,0,3,94,253,131,pain in chest during exercise tiredness,1
-63,0,0,186,192,186,healthy condition normal heart rate,0
-73,0,1,182,187,110,pain in chest during exercise tiredness,1
-26,1,3,183,362,159,irregular heartbeat chest discomfort weakness,1
-60,1,3,174,189,146,irregular heartbeat chest discomfort weakness,1
-30,1,1,113,284,120,healthy condition normal heart rate,0
-65,1,1,152,305,196,irregular heartbeat chest discomfort weakness,1
-38,1,3,103,256,112,chest pain shortness of breath fatigue dizziness,1
-79,0,2,95,362,182,irregular heartbeat chest discomfort weakness,1
-32,1,1,174,233,101,no chest pain good activity level,0
-63,1,2,166,349,103,pain in chest during exercise tiredness,1
-65,0,0,182,167,92,severe chest pressure sweating breathing difficulty,1
-59,1,3,115,355,179,severe chest pressure sweating breathing difficulty,1
-47,1,2,152,306,128,severe chest pressure sweating breathing difficulty,1
-49,0,3,118,329,153,healthy condition normal heart rate,0
-61,0,1,169,351,110,severe chest pressure sweating breathing difficulty,1
-30,0,0,136,201,131,normal breathing no chest pain active lifestyle,0
-80,0,2,185,342,176,severe chest pressure sweating breathing difficulty,1
-30,0,3,90,154,116,healthy condition normal heart rate,0
-74,0,1,144,352,190,severe chest pressure sweating breathing difficulty,1
-42,1,0,133,197,144,healthy condition normal heart rate,0
-59,0,0,115,196,146,no chest pain good activity level,0
-50,0,3,119,162,87,no chest pain good activity level,0
-63,1,3,170,315,125,severe chest pressure sweating breathing difficulty,1
-77,1,0,151,160,137,healthy condition normal heart rate,0
-59,1,0,111,356,117,chest pain shortness of breath fatigue dizziness,1
-28,0,2,143,288,200,chest pain shortness of breath fatigue dizziness,1
-64,1,1,135,339,145,normal breathing no chest pain active lifestyle,0
-80,1,1,147,271,87,irregular heartbeat chest discomfort weakness,1
-85,1,0,164,171,179,mild fatigue no major symptoms,0
-66,0,1,155,261,178,pain in chest during exercise tiredness,1
-76,1,3,133,179,127,normal breathing no chest pain active lifestyle,0
-52,0,1,179,297,85,severe chest pressure sweating breathing difficulty,1
-84,1,2,172,246,173,irregular heartbeat chest discomfort weakness,1
-75,1,3,116,295,131,pain in chest during exercise tiredness,1
-69,0,1,101,243,120,no chest pain good activity level,0
-82,0,3,166,299,165,severe chest pressure sweating breathing difficulty,1
-28,0,0,142,343,156,no chest pain good activity level,0
-37,0,3,110,254,195,healthy condition normal heart rate,0
-74,0,3,148,175,188,irregular heartbeat chest discomfort weakness,1
-67,0,0,132,230,200,healthy condition normal heart rate,0
-61,0,0,113,325,189,no chest pain good activity level,0
-50,1,0,137,216,118,mild fatigue no major symptoms,0
-67,0,1,160,319,142,chest pain shortness of breath fatigue dizziness,1
-45,0,2,132,207,173,normal breathing no chest pain active lifestyle,0
-69,1,2,167,357,182,irregular heartbeat chest discomfort weakness,1
-44,1,3,118,165,96,normal breathing no chest pain active lifestyle,0
-31,1,3,113,196,176,mild fatigue no major symptoms,0
-36,0,2,139,259,109,irregular heartbeat chest discomfort weakness,1
-25,1,2,104,214,191,no chest pain good activity level,0
-77,1,3,122,288,183,chest pain shortness of breath fatigue dizziness,1
-44,0,0,175,253,193,mild fatigue no major symptoms,0
-38,0,3,180,379,156,pain in chest during exercise tiredness,1
-71,1,2,172,289,137,chest pain shortness of breath fatigue dizziness,1
-58,1,1,174,355,154,chest pain shortness of breath fatigue dizziness,1
-63,1,1,113,143,121,no chest pain good activity level,0
-44,1,3,169,175,124,mild fatigue no major symptoms,0
-47,0,3,146,263,192,pain in chest during exercise tiredness,1
-50,0,0,131,152,190,mild fatigue no major symptoms,0
-78,0,2,165,200,200,severe chest pressure sweating breathing difficulty,1
-65,1,1,135,150,118,mild fatigue no major symptoms,0
-73,0,1,90,155,86,no chest pain good activity level,0
-73,0,0,170,338,186,pain in chest during exercise tiredness,1
-35,0,1,179,369,148,no chest pain good activity level,0
-82,0,1,101,313,150,normal breathing no chest pain active lifestyle,0
-43,1,0,106,316,121,mild fatigue no major symptoms,0
-68,1,0,131,171,195,normal breathing no chest pain active lifestyle,0
-74,0,3,124,367,144,severe chest pressure sweating breathing difficulty,1
-32,0,2,149,243,156,irregular heartbeat chest discomfort weakness,1
-72,1,1,190,350,190,irregular heartbeat chest discomfort weakness,1
-49,0,3,133,231,90,normal breathing no chest pain active lifestyle,0
-73,1,1,137,355,174,healthy condition normal heart rate,0
-62,1,3,146,220,154,pain in chest during exercise tiredness,1
-56,1,3,168,347,109,chest pain shortness of breath fatigue dizziness,1
-82,0,3,121,248,103,severe chest pressure sweating breathing difficulty,1
-57,1,0,113,229,184,normal breathing no chest pain active lifestyle,0
-50,0,2,123,224,179,mild fatigue no major symptoms,0
-76,0,3,147,237,129,chest pain shortness of breath fatigue dizziness,1
-52,1,3,144,248,113,irregular heartbeat chest discomfort weakness,1
-35,1,3,172,337,118,irregular heartbeat chest discomfort weakness,1
-55,1,1,92,360,103,healthy condition normal heart rate,0
-25,1,0,148,369,163,no chest pain good activity level,0
-38,1,3,135,144,93,no chest pain good activity level,0
-77,0,1,92,309,120,healthy condition normal heart rate,0
-70,0,2,161,309,129,pain in chest during exercise tiredness,1
-42,0,3,123,213,163,healthy condition normal heart rate,0
-68,0,1,183,326,102,severe chest pressure sweating breathing difficulty,1
-52,1,3,133,296,114,chest pain shortness of breath fatigue dizziness,1
-83,1,3,187,339,182,chest pain shortness of breath fatigue dizziness,1
-25,1,3,139,341,99,irregular heartbeat chest discomfort weakness,1
-56,0,1,166,369,161,chest pain shortness of breath fatigue dizziness,1
-74,1,0,182,289,108,irregular heartbeat chest discomfort weakness,1
-51,1,0,119,173,183,mild fatigue no major symptoms,0
-46,0,0,163,319,103,severe chest pressure sweating breathing difficulty,1
-47,0,1,174,358,105,pain in chest during exercise tiredness,1
-84,0,0,131,346,113,irregular heartbeat chest discomfort weakness,1
-35,1,2,103,190,125,normal breathing no chest pain active lifestyle,0
-31,0,0,145,215,114,mild fatigue no major symptoms,0
-79,1,1,166,252,133,irregular heartbeat chest discomfort weakness,1
-36,1,2,96,344,187,normal breathing no chest pain active lifestyle,0
-66,0,3,110,238,193,mild fatigue no major symptoms,0
-78,0,0,161,334,175,chest pain shortness of breath fatigue dizziness,1
-85,1,0,93,318,93,irregular heartbeat chest discomfort weakness,1
-44,0,2,165,324,183,chest pain shortness of breath fatigue dizziness,1
-37,0,1,184,204,130,no chest pain good activity level,0
-35,1,2,139,143,193,healthy condition normal heart rate,0
-72,0,0,120,310,102,severe chest pressure sweating breathing difficulty,1
-66,1,3,145,252,163,pain in chest during exercise tiredness,1
-44,1,2,144,308,98,pain in chest during exercise tiredness,1
-66,1,3,185,152,197,pain in chest during exercise tiredness,1
-35,0,0,107,340,138,no chest pain good activity level,0
-46,1,3,181,359,141,pain in chest during exercise tiredness,1
-41,0,1,135,331,112,healthy condition normal heart rate,0
-41,0,2,159,154,180,mild fatigue no major symptoms,0
-31,0,1,142,300,90,severe chest pressure sweating breathing difficulty,1
-60,0,3,137,223,205,normal breathing no chest pain active lifestyle,0
-79,0,1,108,337,165,no chest pain good activity level,0
-25,0,0,133,239,112,no chest pain good activity level,0
-32,1,1,105,232,201,no chest pain good activity level,0
-61,0,1,98,140,170,mild fatigue no major symptoms,0
-62,1,0,94,270,149,normal breathing no chest pain active lifestyle,0
-50,0,1,155,169,157,mild fatigue no major symptoms,0
-38,0,0,135,345,199,normal breathing no chest pain active lifestyle,0
-43,1,0,164,319,182,mild fatigue no major symptoms,0
-61,1,3,117,267,163,severe chest pressure sweating breathing difficulty,1
-67,0,0,133,232,126,healthy condition normal heart rate,0
-35,0,2,92,248,144,no chest pain good activity level,0
-55,1,3,110,250,140,no chest pain good activity level,0
-43,0,3,111,312,196,healthy condition normal heart rate,0
-83,1,2,136,190,110,pain in chest during exercise tiredness,1
-57,0,2,152,149,179,pain in chest during exercise tiredness,1
-85,0,1,112,282,111,irregular heartbeat chest discomfort weakness,1
-84,1,2,155,150,97,chest pain shortness of breath fatigue dizziness,1
-56,0,1,106,150,139,no chest pain good activity level,0
-67,0,3,180,304,91,irregular heartbeat chest discomfort weakness,1
-30,1,3,110,237,162,normal breathing no chest pain active lifestyle,0
-50,1,2,140,228,166,no chest pain good activity level,0
-62,1,2,107,202,136,mild fatigue no major symptoms,0
-75,1,3,164,162,131,chest pain shortness of breath fatigue dizziness,1
-28,1,2,173,203,150,healthy condition normal heart rate,0
-69,0,2,162,164,97,chest pain shortness of breath fatigue dizziness,1
-70,0,2,158,359,168,irregular heartbeat chest discomfort weakness,1
-73,1,3,111,380,158,chest pain shortness of breath fatigue dizziness,1
-27,1,1,111,281,198,healthy condition normal heart rate,0
-35,0,3,111,333,153,normal breathing no chest pain active lifestyle,0
-78,1,1,183,236,90,pain in chest during exercise tiredness,1
-78,0,2,148,361,91,irregular heartbeat chest discomfort weakness,1
-40,0,3,102,186,163,mild fatigue no major symptoms,0
-26,1,0,113,297,167,mild fatigue no major symptoms,0
-55,0,2,155,149,95,chest pain shortness of breath fatigue dizziness,1
-66,0,1,185,158,178,healthy condition normal heart rate,0
-31,0,0,176,215,127,healthy condition normal heart rate,0
-83,1,3,176,306,175,pain in chest during exercise tiredness,1
-45,0,2,95,159,139,mild fatigue no major symptoms,0
-81,0,2,157,319,158,severe chest pressure sweating breathing difficulty,1
-43,1,2,133,211,134,no chest pain good activity level,0
-57,0,2,105,330,192,severe chest pressure sweating breathing difficulty,1
-62,1,0,152,308,182,pain in chest during exercise tiredness,1
-48,1,2,109,294,104,irregular heartbeat chest discomfort weakness,1
-75,0,1,174,244,119,chest pain shortness of breath fatigue dizziness,1
-58,1,1,177,149,96,irregular heartbeat chest discomfort weakness,1
-36,1,3,136,254,120,mild fatigue no major symptoms,0
-40,1,0,182,240,99,normal breathing no chest pain active lifestyle,0
-37,0,2,149,377,116,irregular heartbeat chest discomfort weakness,1
-76,1,0,91,178,194,mild fatigue no major symptoms,0
-35,1,3,187,170,138,healthy condition normal heart rate,0
-54,1,1,160,248,116,pain in chest during exercise tiredness,1
-73,0,2,156,271,172,pain in chest during exercise tiredness,1
-65,1,1,166,217,155,normal breathing no chest pain active lifestyle,0
-44,1,1,113,244,106,normal breathing no chest pain active lifestyle,0
-78,1,0,137,335,105,severe chest pressure sweating breathing difficulty,1
-57,1,1,149,369,97,irregular heartbeat chest discomfort weakness,1
-70,0,1,147,272,137,chest pain shortness of breath fatigue dizziness,1
-30,0,2,175,183,122,healthy condition normal heart rate,0
-52,0,1,97,306,189,mild fatigue no major symptoms,0
-37,1,3,107,360,122,mild fatigue no major symptoms,0
-32,0,3,147,351,194,chest pain shortness of breath fatigue dizziness,1
-82,0,1,135,287,115,pain in chest during exercise tiredness,1
-59,1,2,122,146,114,severe chest pressure sweating breathing difficulty,1
-43,0,0,140,215,124,normal breathing no chest pain active lifestyle,0
-48,1,1,163,373,117,pain in chest during exercise tiredness,1
-36,1,1,169,170,86,normal breathing no chest pain active lifestyle,0
-45,0,3,94,368,182,healthy condition normal heart rate,0
-63,0,0,121,344,95,pain in chest during exercise tiredness,1
-37,1,1,146,254,182,mild fatigue no major symptoms,0
-67,0,2,102,380,98,irregular heartbeat chest discomfort weakness,1
-28,0,2,128,273,111,irregular heartbeat chest discomfort weakness,1
-34,1,3,114,161,154,no chest pain good activity level,0
-77,1,0,141,260,159,severe chest pressure sweating breathing difficulty,1
-40,0,0,101,169,94,normal breathing no chest pain active lifestyle,0
-53,0,3,136,346,187,no chest pain good activity level,0
-61,0,0,107,337,201,no chest pain good activity level,0
-58,1,0,161,276,119,chest pain shortness of breath fatigue dizziness,1
-62,1,1,139,360,114,irregular heartbeat chest discomfort weakness,1
-25,0,1,141,304,90,chest pain shortness of breath fatigue dizziness,1
-80,0,3,166,215,131,irregular heartbeat chest discomfort weakness,1
-29,0,3,155,362,150,severe chest pressure sweating breathing difficulty,1
-51,0,0,162,193,162,healthy condition normal heart rate,0
-54,0,3,135,290,90,chest pain shortness of breath fatigue dizziness,1
-28,1,2,149,377,164,irregular heartbeat chest discomfort weakness,1
-56,0,3,92,232,95,chest pain shortness of breath fatigue dizziness,1
-27,1,3,184,157,167,mild fatigue no major symptoms,0
-66,0,3,117,228,131,no chest pain good activity level,0
-52,0,3,92,279,112,pain in chest during exercise tiredness,1
-53,1,1,123,375,94,healthy condition normal heart rate,0
-57,1,1,147,194,141,mild fatigue no major symptoms,0
-26,0,2,182,345,112,severe chest pressure sweating breathing difficulty,1
-64,1,0,119,153,134,normal breathing no chest pain active lifestyle,0
+82,1,1,112,262,104,pain in chest during exercise tiredness,1
+35,1,3,182,335,183,irregular heartbeat chest discomfort weakness,1
+83,0,1,182,258,122,chest pain shortness of breath fatigue dizziness,1
+79,0,1,111,204,203,no chest pain good activity level,0
+79,1,0,161,274,157,pain in chest during exercise tiredness,1
+65,0,1,147,244,126,chest pain shortness of breath fatigue dizziness,1
+76,1,3,182,191,119,irregular heartbeat chest discomfort weakness,1
+85,0,1,127,349,137,healthy condition normal heart rate,0
+40,1,1,134,175,131,no chest pain good activity level,0
+81,1,0,100,362,185,normal breathing no chest pain active lifestyle,0
+59,0,3,95,337,150,chest pain shortness of breath fatigue dizziness,1
+79,1,0,134,300,201,mild fatigue no major symptoms,0
+61,1,3,95,311,125,chest pain shortness of breath fatigue dizziness,1
+66,0,3,112,165,93,severe chest pressure sweating breathing difficulty,1
+65,1,2,160,171,203,severe chest pressure sweating breathing difficulty,1
+60,1,0,91,190,194,no chest pain good activity level,0
+36,0,3,188,181,135,normal breathing no chest pain active lifestyle,0
+36,1,3,134,295,172,no chest pain good activity level,0
+25,1,3,174,251,131,severe chest pressure sweating breathing difficulty,1
+49,1,1,161,255,133,no chest pain good activity level,0
+28,1,2,90,340,198,no chest pain good activity level,0
+58,1,2,121,238,101,pain in chest during exercise tiredness,1
+65,0,2,178,361,138,severe chest pressure sweating breathing difficulty,1
+69,1,3,111,238,154,healthy condition normal heart rate,0
+67,0,2,108,253,159,pain in chest during exercise tiredness,1
+84,0,3,180,311,164,irregular heartbeat chest discomfort weakness,1
+49,1,3,92,308,177,normal breathing no chest pain active lifestyle,0
+80,0,0,186,175,165,mild fatigue no major symptoms,0
+80,1,3,170,159,150,chest pain shortness of breath fatigue dizziness,1
+31,1,1,187,188,148,healthy condition normal heart rate,0
+68,1,0,162,170,138,healthy condition normal heart rate,0
+68,1,3,186,335,124,severe chest pressure sweating breathing difficulty,1
+78,0,0,155,201,156,mild fatigue no major symptoms,0
+48,0,1,181,310,85,pain in chest during exercise tiredness,1
+72,1,3,95,282,175,chest pain shortness of breath fatigue dizziness,1
+29,1,3,120,333,172,normal breathing no chest pain active lifestyle,0
+53,0,2,126,353,196,mild fatigue no major symptoms,0
+85,1,1,142,194,167,mild fatigue no major symptoms,0
+66,0,3,121,184,99,severe chest pressure sweating breathing difficulty,1
+72,0,0,95,360,110,irregular heartbeat chest discomfort weakness,1
+70,1,1,143,238,138,healthy condition normal heart rate,0
+75,0,3,138,171,92,pain in chest during exercise tiredness,1
+73,0,3,179,235,91,severe chest pressure sweating breathing difficulty,1
+65,1,0,124,208,197,mild fatigue no major symptoms,0
+73,0,0,184,352,146,chest pain shortness of breath fatigue dizziness,1
+40,0,2,95,215,194,mild fatigue no major symptoms,0
+77,1,0,101,354,166,normal breathing no chest pain active lifestyle,0
+41,0,2,100,232,204,mild fatigue no major symptoms,0
+56,1,1,139,263,121,no chest pain good activity level,0
+28,0,0,102,162,147,no chest pain good activity level,0
+57,0,2,109,328,194,irregular heartbeat chest discomfort weakness,1
+74,1,2,144,196,191,pain in chest during exercise tiredness,1
+69,0,3,129,299,188,chest pain shortness of breath fatigue dizziness,1
+53,1,2,107,265,178,no chest pain good activity level,0
+58,0,3,170,283,142,irregular heartbeat chest discomfort weakness,1
+81,1,1,187,170,97,severe chest pressure sweating breathing difficulty,1
+57,1,1,120,364,93,severe chest pressure sweating breathing difficulty,1
+74,0,1,173,244,94,chest pain shortness of breath fatigue dizziness,1
+30,0,3,135,317,161,normal breathing no chest pain active lifestyle,0
+64,1,2,96,299,184,pain in chest during exercise tiredness,1
+77,1,1,157,255,98,pain in chest during exercise tiredness,1
+32,1,2,152,185,175,no chest pain good activity level,0
+62,0,1,98,326,140,normal breathing no chest pain active lifestyle,0
+49,1,1,149,159,95,no chest pain good activity level,0
+54,1,3,133,320,170,normal breathing no chest pain active lifestyle,0
+81,1,2,180,294,144,pain in chest during exercise tiredness,1
+61,0,3,107,168,108,pain in chest during exercise tiredness,1
+76,1,1,106,286,97,pain in chest during exercise tiredness,1
+81,1,0,119,220,195,healthy condition normal heart rate,0
+83,1,2,120,299,182,chest pain shortness of breath fatigue dizziness,1
+79,1,0,95,318,99,irregular heartbeat chest discomfort weakness,1
+70,1,2,188,356,145,chest pain shortness of breath fatigue dizziness,1
+75,1,3,168,255,196,pain in chest during exercise tiredness,1
+33,1,0,111,309,140,healthy condition normal heart rate,0
+75,0,1,102,243,169,normal breathing no chest pain active lifestyle,0
+75,0,0,92,225,112,normal breathing no chest pain active lifestyle,0
+58,1,3,159,146,136,irregular heartbeat chest discomfort weakness,1
+82,0,1,176,379,117,irregular heartbeat chest discomfort weakness,1
+29,0,2,145,205,99,severe chest pressure sweating breathing difficulty,1
+36,1,0,104,208,203,normal breathing no chest pain active lifestyle,0
+84,0,0,177,213,205,no chest pain good activity level,0
+25,1,3,180,176,152,mild fatigue no major symptoms,0
+69,0,3,120,223,93,pain in chest during exercise tiredness,1
+32,0,0,183,212,168,normal breathing no chest pain active lifestyle,0
+29,1,3,133,276,199,mild fatigue no major symptoms,0
+74,1,0,189,188,179,healthy condition normal heart rate,0
+80,0,0,132,153,191,no chest pain good activity level,0
+48,0,2,173,240,123,healthy condition normal heart rate,0
+47,1,2,187,369,192,chest pain shortness of breath fatigue dizziness,1
+49,0,2,118,257,135,healthy condition normal heart rate,0
+25,1,1,190,272,162,mild fatigue no major symptoms,0
+70,1,1,165,344,117,pain in chest during exercise tiredness,1
+67,0,2,160,362,129,pain in chest during exercise tiredness,1
+85,1,3,109,229,111,pain in chest during exercise tiredness,1
+84,1,2,149,270,127,pain in chest during exercise tiredness,1
+64,0,1,134,337,94,severe chest pressure sweating breathing difficulty,1
+66,1,3,92,308,111,chest pain shortness of breath fatigue dizziness,1
+43,1,0,149,356,197,healthy condition normal heart rate,0
+68,0,3,155,320,164,chest pain shortness of breath fatigue dizziness,1
+75,0,2,181,211,117,irregular heartbeat chest discomfort weakness,1
+71,0,0,174,244,123,pain in chest during exercise tiredness,1
+58,1,0,134,343,126,normal breathing no chest pain active lifestyle,0
+31,1,2,99,269,159,mild fatigue no major symptoms,0
+84,1,0,135,246,139,no chest pain good activity level,0
+49,1,0,146,161,169,no chest pain good activity level,0
+77,1,3,154,193,168,pain in chest during exercise tiredness,1
+76,1,0,117,144,147,normal breathing no chest pain active lifestyle,0
+61,1,0,151,306,138,irregular heartbeat chest discomfort weakness,1
+85,1,2,157,144,172,pain in chest during exercise tiredness,1
+40,1,2,97,256,145,mild fatigue no major symptoms,0
+29,0,3,133,197,135,no chest pain good activity level,0
+65,0,3,149,284,183,severe chest pressure sweating breathing difficulty,1
+70,0,3,106,145,109,pain in chest during exercise tiredness,1
+52,1,3,114,266,185,mild fatigue no major symptoms,0
+53,1,2,117,284,131,normal breathing no chest pain active lifestyle,0
+80,1,1,122,275,92,chest pain shortness of breath fatigue dizziness,1
+63,1,1,105,339,87,irregular heartbeat chest discomfort weakness,1
+33,0,3,172,335,192,irregular heartbeat chest discomfort weakness,1
+28,0,3,90,353,93,pain in chest during exercise tiredness,1
+29,1,2,179,376,100,severe chest pressure sweating breathing difficulty,1
+62,1,2,98,271,186,chest pain shortness of breath fatigue dizziness,1
+36,1,3,181,211,203,healthy condition normal heart rate,0
+55,1,2,144,323,135,irregular heartbeat chest discomfort weakness,1
+40,1,1,127,376,159,normal breathing no chest pain active lifestyle,0
+56,1,0,140,211,170,healthy condition normal heart rate,0
+52,0,2,135,299,200,no chest pain good activity level,0
+58,1,1,170,327,149,chest pain shortness of breath fatigue dizziness,1
+49,1,0,112,297,144,mild fatigue no major symptoms,0
+52,0,1,98,179,190,healthy condition normal heart rate,0
+51,0,1,162,170,110,mild fatigue no major symptoms,0
+33,0,2,158,178,168,no chest pain good activity level,0
+47,1,2,165,181,85,chest pain shortness of breath fatigue dizziness,1
+50,0,3,90,366,123,no chest pain good activity level,0
+78,1,2,112,269,193,pain in chest during exercise tiredness,1
+44,1,0,129,358,93,no chest pain good activity level,0
+69,1,2,169,346,183,severe chest pressure sweating breathing difficulty,1
+47,1,2,143,143,118,pain in chest during exercise tiredness,1
+77,1,0,175,322,167,severe chest pressure sweating breathing difficulty,1
+61,1,1,125,364,117,chest pain shortness of breath fatigue dizziness,1
+47,0,3,94,230,110,normal breathing no chest pain active lifestyle,0
+84,1,2,96,267,152,chest pain shortness of breath fatigue dizziness,1
+31,0,0,172,245,122,healthy condition normal heart rate,0
+45,1,1,169,338,154,normal breathing no chest pain active lifestyle,0
+39,0,3,157,372,109,irregular heartbeat chest discomfort weakness,1
+71,0,3,169,257,123,irregular heartbeat chest discomfort weakness,1
+59,0,1,162,206,106,irregular heartbeat chest discomfort weakness,1
+84,1,0,98,204,184,mild fatigue no major symptoms,0
+44,0,3,146,226,113,pain in chest during exercise tiredness,1
+37,0,2,112,231,195,mild fatigue no major symptoms,0
+46,1,1,162,362,88,pain in chest during exercise tiredness,1
+25,0,3,131,192,148,no chest pain good activity level,0
+47,0,0,105,305,162,normal breathing no chest pain active lifestyle,0
+79,0,3,132,308,160,chest pain shortness of breath fatigue dizziness,1
+54,0,3,137,364,158,healthy condition normal heart rate,0
+36,1,0,104,241,115,healthy condition normal heart rate,0
+29,1,3,151,266,87,severe chest pressure sweating breathing difficulty,1
+33,1,3,183,205,177,normal breathing no chest pain active lifestyle,0
+79,1,3,140,282,105,severe chest pressure sweating breathing difficulty,1
+84,0,0,106,191,110,healthy condition normal heart rate,0
+37,1,3,133,377,196,healthy condition normal heart rate,0
+40,0,3,131,184,171,healthy condition normal heart rate,0
+46,1,2,123,151,204,no chest pain good activity level,0
+74,0,0,142,335,137,irregular heartbeat chest discomfort weakness,1
+81,0,2,109,319,93,irregular heartbeat chest discomfort weakness,1
+74,1,3,98,286,107,chest pain shortness of breath fatigue dizziness,1
+66,0,0,165,141,188,normal breathing no chest pain active lifestyle,0
+63,1,0,121,328,163,normal breathing no chest pain active lifestyle,0
+62,1,3,104,327,115,severe chest pressure sweating breathing difficulty,1
+61,0,1,115,205,145,mild fatigue no major symptoms,0
+59,1,2,158,270,168,irregular heartbeat chest discomfort weakness,1
+47,1,0,101,349,178,mild fatigue no major symptoms,0
+48,0,3,185,348,143,severe chest pressure sweating breathing difficulty,1
+26,1,3,174,219,146,healthy condition normal heart rate,0
+58,1,2,186,226,114,severe chest pressure sweating breathing difficulty,1
+33,1,3,167,163,148,normal breathing no chest pain active lifestyle,0
+72,0,1,159,192,201,mild fatigue no major symptoms,0
+70,1,1,94,176,170,no chest pain good activity level,0
+67,0,0,157,181,178,mild fatigue no major symptoms,0
+57,0,3,132,195,200,mild fatigue no major symptoms,0
+34,1,0,141,148,198,mild fatigue no major symptoms,0
+43,1,3,125,300,102,pain in chest during exercise tiredness,1
+59,0,3,145,361,130,chest pain shortness of breath fatigue dizziness,1
+58,0,1,180,240,184,no chest pain good activity level,0
+34,0,2,115,244,102,irregular heartbeat chest discomfort weakness,1
+29,0,3,179,188,124,no chest pain good activity level,0
+63,0,1,100,259,161,normal breathing no chest pain active lifestyle,0
+55,0,0,157,148,185,healthy condition normal heart rate,0
+43,0,1,113,180,131,healthy condition normal heart rate,0
+80,0,0,136,313,110,severe chest pressure sweating breathing difficulty,1
+27,1,3,110,190,195,normal breathing no chest pain active lifestyle,0
+72,0,1,94,208,122,healthy condition normal heart rate,0
+31,0,1,141,348,178,mild fatigue no major symptoms,0
+73,1,2,171,231,174,severe chest pressure sweating breathing difficulty,1
+50,1,2,183,343,89,pain in chest during exercise tiredness,1
+84,0,3,152,285,128,pain in chest during exercise tiredness,1
+41,1,0,105,227,163,mild fatigue no major symptoms,0
+72,1,3,184,246,198,chest pain shortness of breath fatigue dizziness,1
+47,0,1,100,223,161,normal breathing no chest pain active lifestyle,0
+53,0,1,153,374,130,normal breathing no chest pain active lifestyle,0
+25,1,1,119,148,120,mild fatigue no major symptoms,0
+32,1,1,136,380,193,no chest pain good activity level,0
+72,0,0,185,374,173,pain in chest during exercise tiredness,1
+32,0,1,97,225,143,no chest pain good activity level,0
+82,1,3,149,307,90,pain in chest during exercise tiredness,1
+46,0,3,184,247,132,chest pain shortness of breath fatigue dizziness,1
+37,0,3,122,288,195,mild fatigue no major symptoms,0
+75,0,2,184,284,175,severe chest pressure sweating breathing difficulty,1
+54,1,1,118,258,86,no chest pain good activity level,0
+60,1,1,173,339,103,severe chest pressure sweating breathing difficulty,1
+74,0,3,159,302,204,pain in chest during exercise tiredness,1
+36,0,2,116,212,135,healthy condition normal heart rate,0
+37,0,2,159,262,91,irregular heartbeat chest discomfort weakness,1
+70,1,1,179,257,132,pain in chest during exercise tiredness,1
+80,1,1,127,305,174,healthy condition normal heart rate,0
+46,0,3,186,210,91,irregular heartbeat chest discomfort weakness,1
+32,0,2,131,154,110,normal breathing no chest pain active lifestyle,0
+72,1,3,106,216,185,mild fatigue no major symptoms,0
+68,1,0,121,209,127,no chest pain good activity level,0
+85,1,2,124,177,197,mild fatigue no major symptoms,0
+33,0,0,115,261,185,healthy condition normal heart rate,0
+57,1,1,129,231,106,mild fatigue no major symptoms,0
+46,0,2,92,353,146,no chest pain good activity level,0
+30,0,3,151,185,170,no chest pain good activity level,0
+61,0,1,135,216,100,no chest pain good activity level,0
+50,0,1,174,270,205,normal breathing no chest pain active lifestyle,0
+75,0,2,144,148,86,irregular heartbeat chest discomfort weakness,1
+84,1,3,96,277,156,irregular heartbeat chest discomfort weakness,1
+51,1,1,173,377,118,pain in chest during exercise tiredness,1
+28,0,0,90,332,153,normal breathing no chest pain active lifestyle,0
+78,0,0,135,196,202,normal breathing no chest pain active lifestyle,0
+27,0,3,159,350,139,pain in chest during exercise tiredness,1
+84,0,1,100,270,178,no chest pain good activity level,0
+40,1,2,190,205,176,mild fatigue no major symptoms,0
+46,0,3,175,337,127,chest pain shortness of breath fatigue dizziness,1
+51,1,2,155,144,89,pain in chest during exercise tiredness,1
+31,0,1,130,230,181,healthy condition normal heart rate,0
+50,0,3,93,365,138,normal breathing no chest pain active lifestyle,0
+48,0,1,128,301,160,no chest pain good activity level,0
+81,0,2,139,179,188,no chest pain good activity level,0
+26,1,2,92,151,174,healthy condition normal heart rate,0
+57,1,2,111,235,101,pain in chest during exercise tiredness,1
+51,1,0,128,202,134,mild fatigue no major symptoms,0
+72,1,1,96,332,86,chest pain shortness of breath fatigue dizziness,1
+38,0,0,120,177,173,normal breathing no chest pain active lifestyle,0
+74,0,2,181,286,108,chest pain shortness of breath fatigue dizziness,1
+48,1,2,109,367,175,normal breathing no chest pain active lifestyle,0
+60,0,0,127,347,106,irregular heartbeat chest discomfort weakness,1
+57,0,2,169,168,143,pain in chest during exercise tiredness,1
+27,0,0,155,155,197,mild fatigue no major symptoms,0
+57,0,2,101,216,139,healthy condition normal heart rate,0
+47,1,3,109,356,98,severe chest pressure sweating breathing difficulty,1
+47,0,0,152,194,194,no chest pain good activity level,0
+28,1,1,129,210,199,mild fatigue no major symptoms,0
+67,0,3,145,159,194,irregular heartbeat chest discomfort weakness,1
+60,1,3,179,262,182,chest pain shortness of breath fatigue dizziness,1
+38,0,0,127,360,109,normal breathing no chest pain active lifestyle,0
+71,0,3,140,357,203,severe chest pressure sweating breathing difficulty,1
+38,0,0,147,260,90,pain in chest during exercise tiredness,1
+67,1,3,188,377,168,irregular heartbeat chest discomfort weakness,1
+81,0,2,96,260,156,pain in chest during exercise tiredness,1
+82,0,3,107,315,151,irregular heartbeat chest discomfort weakness,1
+73,1,3,93,330,171,pain in chest during exercise tiredness,1
+43,1,0,183,212,181,healthy condition normal heart rate,0
+77,1,1,120,297,90,severe chest pressure sweating breathing difficulty,1
+70,0,3,132,268,201,pain in chest during exercise tiredness,1
+56,0,1,93,273,102,pain in chest during exercise tiredness,1
+25,1,2,127,194,105,healthy condition normal heart rate,0
+60,0,0,181,376,111,severe chest pressure sweating breathing difficulty,1
+39,0,0,187,356,131,no chest pain good activity level,0
+37,0,0,164,326,200,no chest pain good activity level,0
+66,1,3,169,199,149,severe chest pressure sweating breathing difficulty,1
+73,0,1,166,170,187,no chest pain good activity level,0
+68,0,1,106,238,129,healthy condition normal heart rate,0
+81,0,2,117,338,91,pain in chest during exercise tiredness,1
+78,1,1,141,285,88,severe chest pressure sweating breathing difficulty,1
+79,1,3,99,188,156,no chest pain good activity level,0
+81,1,1,151,224,103,pain in chest during exercise tiredness,1
+66,1,3,159,364,191,chest pain shortness of breath fatigue dizziness,1
+48,0,3,150,337,150,severe chest pressure sweating breathing difficulty,1
+33,0,0,94,290,192,mild fatigue no major symptoms,0
+81,0,1,90,146,99,no chest pain good activity level,0
+85,0,0,136,327,121,normal breathing no chest pain active lifestyle,0
+40,1,3,185,240,198,no chest pain good activity level,0
+70,0,0,185,232,87,pain in chest during exercise tiredness,1
+61,0,0,106,213,172,normal breathing no chest pain active lifestyle,0
+25,1,1,144,375,169,mild fatigue no major symptoms,0
+63,1,2,149,348,87,severe chest pressure sweating breathing difficulty,1
+53,0,2,185,224,199,mild fatigue no major symptoms,0
+81,0,2,94,167,120,no chest pain good activity level,0
+58,1,0,111,204,178,no chest pain good activity level,0
+60,1,0,187,243,127,irregular heartbeat chest discomfort weakness,1
+73,1,1,170,321,105,irregular heartbeat chest discomfort weakness,1
+69,0,3,128,220,110,pain in chest during exercise tiredness,1
+56,1,2,141,301,91,severe chest pressure sweating breathing difficulty,1
+44,1,0,135,268,123,mild fatigue no major symptoms,0
+32,0,3,189,151,91,severe chest pressure sweating breathing difficulty,1
+43,0,3,120,351,178,healthy condition normal heart rate,0
+31,0,3,105,241,91,irregular heartbeat chest discomfort weakness,1
+34,0,3,135,193,133,healthy condition normal heart rate,0
+36,1,1,163,188,150,no chest pain good activity level,0
+41,0,1,169,244,199,healthy condition normal heart rate,0
+76,0,3,151,304,131,chest pain shortness of breath fatigue dizziness,1
+51,0,2,92,247,135,mild fatigue no major symptoms,0
+48,0,1,189,338,202,normal breathing no chest pain active lifestyle,0
+44,0,3,179,298,109,pain in chest during exercise tiredness,1
+37,0,2,104,219,200,normal breathing no chest pain active lifestyle,0
+80,0,2,112,177,152,normal breathing no chest pain active lifestyle,0
+72,1,3,102,306,133,chest pain shortness of breath fatigue dizziness,1
+49,1,2,187,189,189,no chest pain good activity level,0
+49,0,3,118,309,89,severe chest pressure sweating breathing difficulty,1
+72,0,1,158,352,116,irregular heartbeat chest discomfort weakness,1
+85,0,0,190,246,93,chest pain shortness of breath fatigue dizziness,1
+45,1,3,96,143,169,mild fatigue no major symptoms,0
+82,0,3,136,234,205,mild fatigue no major symptoms,0
+38,0,1,160,342,116,severe chest pressure sweating breathing difficulty,1
+28,1,1,183,337,92,chest pain shortness of breath fatigue dizziness,1
+58,1,3,188,261,137,severe chest pressure sweating breathing difficulty,1
+33,1,1,91,291,139,no chest pain good activity level,0
+59,1,2,145,327,168,irregular heartbeat chest discomfort weakness,1
+28,1,0,159,272,193,healthy condition normal heart rate,0
+60,0,1,116,286,91,severe chest pressure sweating breathing difficulty,1
+39,0,1,141,272,173,mild fatigue no major symptoms,0
+80,0,1,107,238,200,normal breathing no chest pain active lifestyle,0
+71,1,1,122,322,111,irregular heartbeat chest discomfort weakness,1
+38,1,2,123,220,182,no chest pain good activity level,0
+56,0,0,92,300,156,normal breathing no chest pain active lifestyle,0
+69,0,0,154,249,105,irregular heartbeat chest discomfort weakness,1
+51,1,2,110,335,102,irregular heartbeat chest discomfort weakness,1
+38,0,2,185,291,179,pain in chest during exercise tiredness,1
+27,1,0,148,250,151,no chest pain good activity level,0
+56,0,1,116,344,203,healthy condition normal heart rate,0
+48,0,3,101,146,204,healthy condition normal heart rate,0
+30,0,2,135,167,138,healthy condition normal heart rate,0
+54,1,0,118,185,201,no chest pain good activity level,0
+73,1,3,99,172,200,mild fatigue no major symptoms,0
+29,0,0,166,171,95,mild fatigue no major symptoms,0
+77,0,3,105,142,97,severe chest pressure sweating breathing difficulty,1
+62,0,1,109,161,183,healthy condition normal heart rate,0
+62,1,1,173,176,169,healthy condition normal heart rate,0
+34,1,2,146,149,194,mild fatigue no major symptoms,0
+39,0,0,125,318,181,no chest pain good activity level,0
+82,1,1,100,235,162,normal breathing no chest pain active lifestyle,0
+43,1,3,153,355,120,chest pain shortness of breath fatigue dizziness,1
+47,0,3,190,262,90,irregular heartbeat chest discomfort weakness,1
+55,1,1,115,351,151,healthy condition normal heart rate,0
+38,1,3,144,298,110,irregular heartbeat chest discomfort weakness,1
+34,1,3,179,146,102,pain in chest during exercise tiredness,1
+51,1,2,96,353,159,mild fatigue no major symptoms,0
+47,1,2,126,307,163,mild fatigue no major symptoms,0
+53,1,1,111,289,114,mild fatigue no major symptoms,0
+80,0,3,122,314,204,chest pain shortness of breath fatigue dizziness,1
+79,0,1,135,191,196,mild fatigue no major symptoms,0
+76,0,2,110,197,188,mild fatigue no major symptoms,0
+80,1,0,99,328,190,normal breathing no chest pain active lifestyle,0
+53,1,0,178,173,166,no chest pain good activity level,0
+35,0,1,156,191,168,normal breathing no chest pain active lifestyle,0
+71,1,3,180,370,167,chest pain shortness of breath fatigue dizziness,1
+68,1,0,90,167,155,normal breathing no chest pain active lifestyle,0
+41,1,2,169,380,172,pain in chest during exercise tiredness,1
+84,1,2,122,253,123,severe chest pressure sweating breathing difficulty,1
+55,0,1,95,349,187,no chest pain good activity level,0
+31,0,0,162,156,92,no chest pain good activity level,0
+80,0,2,181,236,141,pain in chest during exercise tiredness,1
+50,1,1,110,292,87,normal breathing no chest pain active lifestyle,0
+30,0,0,167,372,181,mild fatigue no major symptoms,0
+76,1,3,95,378,195,severe chest pressure sweating breathing difficulty,1
+48,1,2,186,357,93,chest pain shortness of breath fatigue dizziness,1
+29,0,0,120,357,91,normal breathing no chest pain active lifestyle,0
+64,1,0,183,366,149,irregular heartbeat chest discomfort weakness,1
+47,1,2,165,172,107,irregular heartbeat chest discomfort weakness,1
+52,0,3,131,155,145,no chest pain good activity level,0
+31,0,2,142,212,100,pain in chest during exercise tiredness,1
+68,0,2,150,285,93,severe chest pressure sweating breathing difficulty,1
+79,0,2,127,279,117,chest pain shortness of breath fatigue dizziness,1
+60,0,0,179,189,113,irregular heartbeat chest discomfort weakness,1
+59,0,3,90,187,89,severe chest pressure sweating breathing difficulty,1
+71,0,3,116,239,125,normal breathing no chest pain active lifestyle,0
+85,1,3,106,150,132,normal breathing no chest pain active lifestyle,0
+41,0,1,170,183,167,mild fatigue no major symptoms,0
+25,0,0,124,344,151,mild fatigue no major symptoms,0
+34,0,3,148,345,103,severe chest pressure sweating breathing difficulty,1
+76,0,0,176,193,110,pain in chest during exercise tiredness,1
+80,0,3,127,368,95,pain in chest during exercise tiredness,1
+72,1,0,152,208,121,normal breathing no chest pain active lifestyle,0
+41,0,2,109,294,124,normal breathing no chest pain active lifestyle,0
+37,0,0,187,231,185,normal breathing no chest pain active lifestyle,0
+61,1,0,129,195,157,no chest pain good activity level,0
+83,1,3,153,289,115,chest pain shortness of breath fatigue dizziness,1
+36,1,0,132,338,123,no chest pain good activity level,0
+57,0,3,102,181,193,mild fatigue no major symptoms,0
+68,0,1,117,253,146,no chest pain good activity level,0
+55,1,1,103,311,142,no chest pain good activity level,0
+30,1,1,137,204,202,normal breathing no chest pain active lifestyle,0
+75,0,2,106,238,141,mild fatigue no major symptoms,0
+46,1,0,182,281,87,severe chest pressure sweating breathing difficulty,1
+80,1,2,109,249,126,severe chest pressure sweating breathing difficulty,1
+75,0,0,109,187,102,healthy condition normal heart rate,0
+54,1,2,145,319,127,severe chest pressure sweating breathing difficulty,1
+45,0,3,135,270,143,normal breathing no chest pain active lifestyle,0
+44,1,3,114,212,134,mild fatigue no major symptoms,0
+67,1,1,174,146,128,healthy condition normal heart rate,0
+35,1,3,174,295,202,chest pain shortness of breath fatigue dizziness,1
+84,1,3,94,301,135,irregular heartbeat chest discomfort weakness,1
+85,1,0,178,176,193,mild fatigue no major symptoms,0
+57,1,1,169,181,109,severe chest pressure sweating breathing difficulty,1
+46,1,0,174,378,204,normal breathing no chest pain active lifestyle,0
+77,1,1,161,167,120,normal breathing no chest pain active lifestyle,0
+63,0,1,165,351,89,irregular heartbeat chest discomfort weakness,1
+50,0,3,188,170,90,severe chest pressure sweating breathing difficulty,1
+85,0,3,103,273,164,severe chest pressure sweating breathing difficulty,1
+43,1,0,159,365,149,mild fatigue no major symptoms,0
+42,0,3,114,298,200,healthy condition normal heart rate,0
+45,0,1,184,235,203,normal breathing no chest pain active lifestyle,0
+37,0,1,178,200,144,no chest pain good activity level,0
+73,1,0,101,286,178,no chest pain good activity level,0
+60,1,0,135,339,170,mild fatigue no major symptoms,0
+44,0,1,101,235,149,no chest pain good activity level,0
+41,1,3,104,213,144,healthy condition normal heart rate,0
+49,0,1,141,275,201,no chest pain good activity level,0
+44,1,2,112,352,92,pain in chest during exercise tiredness,1
+59,0,3,132,184,146,healthy condition normal heart rate,0
+33,1,2,124,201,101,no chest pain good activity level,0
+83,1,0,112,161,116,mild fatigue no major symptoms,0
+53,0,0,96,190,162,normal breathing no chest pain active lifestyle,0
+26,1,3,113,274,115,irregular heartbeat chest discomfort weakness,1
+52,0,1,141,206,93,normal breathing no chest pain active lifestyle,0
+67,0,1,146,214,138,no chest pain good activity level,0
+52,0,2,107,181,153,no chest pain good activity level,0
+62,0,0,186,284,126,irregular heartbeat chest discomfort weakness,1
+54,1,1,174,336,136,normal breathing no chest pain active lifestyle,0
+85,0,3,144,329,85,pain in chest during exercise tiredness,1
+57,0,1,94,371,187,healthy condition normal heart rate,0
+56,0,0,93,174,143,mild fatigue no major symptoms,0
+34,0,2,169,314,87,chest pain shortness of breath fatigue dizziness,1
+68,1,3,92,293,195,pain in chest during exercise tiredness,1
+44,0,1,182,285,130,no chest pain good activity level,0
+75,1,0,146,262,114,irregular heartbeat chest discomfort weakness,1
+38,0,0,175,248,88,severe chest pressure sweating breathing difficulty,1
+69,0,3,98,226,140,no chest pain good activity level,0
+84,0,3,165,186,110,chest pain shortness of breath fatigue dizziness,1
+31,1,1,95,242,147,mild fatigue no major symptoms,0
+25,0,3,108,349,192,mild fatigue no major symptoms,0
+48,0,0,141,190,141,normal breathing no chest pain active lifestyle,0
+62,1,1,139,351,185,mild fatigue no major symptoms,0
+63,1,0,159,181,200,normal breathing no chest pain active lifestyle,0
+43,1,3,161,285,160,chest pain shortness of breath fatigue dizziness,1
+69,0,3,167,285,167,chest pain shortness of breath fatigue dizziness,1
+47,1,2,90,232,123,no chest pain good activity level,0
+45,1,1,156,281,180,no chest pain good activity level,0
+46,1,2,126,158,192,no chest pain good activity level,0
+75,0,0,180,207,168,healthy condition normal heart rate,0
+83,1,1,141,249,193,pain in chest during exercise tiredness,1
+78,1,3,170,309,98,pain in chest during exercise tiredness,1
+61,1,0,136,171,101,mild fatigue no major symptoms,0
+29,1,3,162,290,158,irregular heartbeat chest discomfort weakness,1
+45,1,3,146,379,202,irregular heartbeat chest discomfort weakness,1
+72,1,0,180,209,109,pain in chest during exercise tiredness,1
+43,0,2,101,305,136,normal breathing no chest pain active lifestyle,0
+26,1,1,145,172,172,normal breathing no chest pain active lifestyle,0
+82,0,3,169,233,133,pain in chest during exercise tiredness,1
+55,0,3,100,289,195,normal breathing no chest pain active lifestyle,0
+63,1,0,141,243,149,irregular heartbeat chest discomfort weakness,1
+36,0,0,178,278,100,irregular heartbeat chest discomfort weakness,1
+66,1,2,96,221,179,healthy condition normal heart rate,0
+31,1,3,136,167,197,healthy condition normal heart rate,0
+50,0,0,132,171,116,no chest pain good activity level,0
+55,0,1,156,352,88,pain in chest during exercise tiredness,1
+79,1,0,108,248,135,no chest pain good activity level,0
+45,1,0,106,203,149,mild fatigue no major symptoms,0
+39,1,3,189,156,85,pain in chest during exercise tiredness,1
+43,0,1,105,212,133,healthy condition normal heart rate,0
+79,1,1,144,214,152,normal breathing no chest pain active lifestyle,0
+36,1,2,134,343,144,healthy condition normal heart rate,0
+84,0,1,152,182,194,healthy condition normal heart rate,0
+76,1,1,153,191,126,healthy condition normal heart rate,0
+32,1,3,170,272,126,severe chest pressure sweating breathing difficulty,1
+78,1,1,108,208,161,normal breathing no chest pain active lifestyle,0
+43,1,1,137,220,183,mild fatigue no major symptoms,0
+45,0,2,174,209,109,severe chest pressure sweating breathing difficulty,1
+67,1,3,158,149,205,pain in chest during exercise tiredness,1
+48,0,1,130,204,116,normal breathing no chest pain active lifestyle,0
+83,1,3,156,313,145,irregular heartbeat chest discomfort weakness,1
+64,1,1,153,260,197,severe chest pressure sweating breathing difficulty,1
+78,0,1,108,333,170,mild fatigue no major symptoms,0
+61,0,1,130,353,186,normal breathing no chest pain active lifestyle,0
+48,0,1,171,359,154,mild fatigue no major symptoms,0
+73,0,2,124,226,131,mild fatigue no major symptoms,0
+61,1,0,156,274,205,chest pain shortness of breath fatigue dizziness,1
+59,1,2,113,166,167,healthy condition normal heart rate,0
+44,1,1,186,194,197,no chest pain good activity level,0
+46,0,3,171,268,109,irregular heartbeat chest discomfort weakness,1
+38,0,1,108,365,135,healthy condition normal heart rate,0
+57,1,0,96,348,93,severe chest pressure sweating breathing difficulty,1
+59,1,0,112,142,165,no chest pain good activity level,0
+58,1,2,143,362,139,chest pain shortness of breath fatigue dizziness,1
+67,1,2,168,157,192,severe chest pressure sweating breathing difficulty,1
+57,1,1,111,220,144,mild fatigue no major symptoms,0
+59,1,2,123,182,139,normal breathing no chest pain active lifestyle,0
+58,0,2,170,303,87,chest pain shortness of breath fatigue dizziness,1
+76,0,1,122,264,198,mild fatigue no major symptoms,0
+71,1,0,93,186,188,healthy condition normal heart rate,0
+70,1,1,157,248,136,severe chest pressure sweating breathing difficulty,1
+69,1,1,158,144,95,severe chest pressure sweating breathing difficulty,1
+78,0,0,169,160,192,no chest pain good activity level,0
+51,0,3,109,370,102,irregular heartbeat chest discomfort weakness,1
+38,1,0,147,224,197,healthy condition normal heart rate,0
+35,1,1,182,243,200,no chest pain good activity level,0
+55,0,1,146,274,108,irregular heartbeat chest discomfort weakness,1
+26,1,3,115,243,178,healthy condition normal heart rate,0
+77,1,0,126,350,151,healthy condition normal heart rate,0
+63,1,3,173,216,90,irregular heartbeat chest discomfort weakness,1
+48,1,1,176,359,109,severe chest pressure sweating breathing difficulty,1
+59,0,1,108,288,126,normal breathing no chest pain active lifestyle,0
+32,0,0,171,142,142,mild fatigue no major symptoms,0
+43,0,0,129,361,184,normal breathing no chest pain active lifestyle,0
+70,0,0,115,196,145,mild fatigue no major symptoms,0
+63,1,0,146,167,181,healthy condition normal heart rate,0
+63,1,2,112,326,177,irregular heartbeat chest discomfort weakness,1
+31,1,1,176,261,199,mild fatigue no major symptoms,0
+48,1,1,141,147,87,healthy condition normal heart rate,0
+37,0,0,93,294,197,normal breathing no chest pain active lifestyle,0
+64,0,2,92,171,105,chest pain shortness of breath fatigue dizziness,1
+77,0,1,146,200,165,mild fatigue no major symptoms,0
+75,0,1,119,265,183,normal breathing no chest pain active lifestyle,0
+60,0,0,165,305,136,pain in chest during exercise tiredness,1
+47,0,1,159,155,146,no chest pain good activity level,0
+38,0,3,143,288,169,pain in chest during exercise tiredness,1
+75,1,3,133,191,100,pain in chest during exercise tiredness,1
+35,1,3,143,194,169,healthy condition normal heart rate,0
+51,0,3,170,176,204,no chest pain good activity level,0
+43,0,0,185,177,126,healthy condition normal heart rate,0
+43,1,2,184,194,86,irregular heartbeat chest discomfort weakness,1
+75,0,2,183,262,90,irregular heartbeat chest discomfort weakness,1
+84,1,3,169,340,199,pain in chest during exercise tiredness,1
+78,1,1,130,209,130,no chest pain good activity level,0
+67,0,0,114,212,164,healthy condition normal heart rate,0
+31,1,3,172,153,97,pain in chest during exercise tiredness,1
+69,1,2,185,207,91,irregular heartbeat chest discomfort weakness,1
+77,1,2,149,232,170,pain in chest during exercise tiredness,1
+79,0,3,180,221,163,pain in chest during exercise tiredness,1
+27,0,1,190,258,87,pain in chest during exercise tiredness,1
+54,1,2,177,270,164,pain in chest during exercise tiredness,1
+63,1,2,122,250,151,chest pain shortness of breath fatigue dizziness,1
+26,0,0,165,228,90,no chest pain good activity level,0
+84,1,2,116,277,138,irregular heartbeat chest discomfort weakness,1
+27,0,2,135,264,140,healthy condition normal heart rate,0
+31,0,2,157,161,175,normal breathing no chest pain active lifestyle,0
+68,0,2,160,240,160,irregular heartbeat chest discomfort weakness,1
+31,0,2,122,284,205,normal breathing no chest pain active lifestyle,0
+73,1,1,100,172,194,mild fatigue no major symptoms,0
+83,0,3,128,175,140,mild fatigue no major symptoms,0
+81,1,0,104,149,107,healthy condition normal heart rate,0
+51,0,1,122,255,198,mild fatigue no major symptoms,0
+52,0,3,133,365,148,no chest pain good activity level,0
+27,0,2,159,379,141,pain in chest during exercise tiredness,1
+43,1,0,136,184,111,healthy condition normal heart rate,0
+82,0,3,184,251,180,severe chest pressure sweating breathing difficulty,1
+83,0,3,172,337,93,severe chest pressure sweating breathing difficulty,1
+25,0,0,134,280,163,no chest pain good activity level,0
+64,1,1,120,239,113,normal breathing no chest pain active lifestyle,0
+82,0,0,155,207,156,mild fatigue no major symptoms,0
+36,1,1,181,154,110,normal breathing no chest pain active lifestyle,0
+82,1,0,154,290,146,chest pain shortness of breath fatigue dizziness,1
+61,0,2,121,184,118,severe chest pressure sweating breathing difficulty,1
+69,0,1,158,303,184,severe chest pressure sweating breathing difficulty,1
+48,0,3,123,239,135,mild fatigue no major symptoms,0
+36,0,0,148,140,127,healthy condition normal heart rate,0
+27,0,3,175,171,196,normal breathing no chest pain active lifestyle,0
+44,0,0,122,207,196,no chest pain good activity level,0
+58,1,2,116,282,126,pain in chest during exercise tiredness,1
+46,1,1,185,187,95,healthy condition normal heart rate,0
+65,0,3,153,221,107,irregular heartbeat chest discomfort weakness,1
+35,1,3,107,154,183,normal breathing no chest pain active lifestyle,0
+57,0,3,158,158,156,chest pain shortness of breath fatigue dizziness,1
+78,1,3,130,290,163,irregular heartbeat chest discomfort weakness,1
+70,0,2,123,249,201,chest pain shortness of breath fatigue dizziness,1
+50,1,3,126,321,141,mild fatigue no major symptoms,0
+38,1,3,159,321,131,pain in chest during exercise tiredness,1
+66,0,2,122,370,185,irregular heartbeat chest discomfort weakness,1
+60,0,3,96,327,171,irregular heartbeat chest discomfort weakness,1
+74,0,2,179,240,105,severe chest pressure sweating breathing difficulty,1
+48,1,3,96,281,140,no chest pain good activity level,0
+78,0,3,170,229,189,pain in chest during exercise tiredness,1
+39,0,3,144,178,119,pain in chest during exercise tiredness,1
+38,0,3,116,140,133,healthy condition normal heart rate,0
+56,1,1,90,230,122,healthy condition normal heart rate,0
+62,0,1,109,185,184,no chest pain good activity level,0
+49,0,0,125,255,188,normal breathing no chest pain active lifestyle,0
+39,0,2,188,342,139,pain in chest during exercise tiredness,1
+76,0,1,175,229,154,normal breathing no chest pain active lifestyle,0
+61,1,1,103,372,203,healthy condition normal heart rate,0
+41,0,2,142,257,180,severe chest pressure sweating breathing difficulty,1
+29,0,2,148,348,176,severe chest pressure sweating breathing difficulty,1
+47,1,1,142,171,181,healthy condition normal heart rate,0
+31,1,0,155,345,134,mild fatigue no major symptoms,0
+72,0,0,167,276,124,irregular heartbeat chest discomfort weakness,1
+80,0,1,175,148,204,normal breathing no chest pain active lifestyle,0
+79,1,1,131,236,117,healthy condition normal heart rate,0
+48,1,1,185,312,188,normal breathing no chest pain active lifestyle,0
+37,0,3,181,360,156,pain in chest during exercise tiredness,1
+57,1,3,178,236,186,chest pain shortness of breath fatigue dizziness,1
+27,1,0,175,277,175,no chest pain good activity level,0
+63,0,0,97,378,197,normal breathing no chest pain active lifestyle,0
+69,0,3,128,264,127,irregular heartbeat chest discomfort weakness,1
+39,1,0,178,317,102,irregular heartbeat chest discomfort weakness,1
+74,0,0,118,283,121,no chest pain good activity level,0
+53,1,1,159,188,171,mild fatigue no major symptoms,0
+56,1,2,175,269,199,chest pain shortness of breath fatigue dizziness,1
+32,0,1,187,146,148,no chest pain good activity level,0
+60,1,0,121,278,169,healthy condition normal heart rate,0
+41,0,3,188,183,202,mild fatigue no major symptoms,0
+80,1,2,186,290,167,irregular heartbeat chest discomfort weakness,1
+26,0,3,134,325,113,chest pain shortness of breath fatigue dizziness,1
+42,0,3,91,262,141,healthy condition normal heart rate,0
+25,1,0,151,325,177,mild fatigue no major symptoms,0
+49,1,1,135,253,116,mild fatigue no major symptoms,0
+65,1,0,174,198,145,no chest pain good activity level,0
+36,0,1,100,370,136,normal breathing no chest pain active lifestyle,0
+52,1,2,118,258,136,normal breathing no chest pain active lifestyle,0
+63,1,2,133,373,159,chest pain shortness of breath fatigue dizziness,1
+43,0,1,96,233,99,healthy condition normal heart rate,0
+58,0,1,156,259,163,irregular heartbeat chest discomfort weakness,1
+79,0,3,138,299,123,severe chest pressure sweating breathing difficulty,1
+81,0,3,96,312,103,pain in chest during exercise tiredness,1
+40,1,2,109,311,150,no chest pain good activity level,0
+26,1,3,96,241,170,healthy condition normal heart rate,0
+56,1,3,169,186,105,pain in chest during exercise tiredness,1
+38,1,0,154,195,85,healthy condition normal heart rate,0
+79,0,3,188,170,190,pain in chest during exercise tiredness,1
+38,1,3,139,249,92,chest pain shortness of breath fatigue dizziness,1
+36,0,0,110,174,134,healthy condition normal heart rate,0
+59,1,3,151,155,92,irregular heartbeat chest discomfort weakness,1
+48,0,1,185,174,118,no chest pain good activity level,0
+56,1,3,112,219,188,no chest pain good activity level,0
+68,0,0,143,330,114,chest pain shortness of breath fatigue dizziness,1
+78,1,3,111,174,148,healthy condition normal heart rate,0
+56,0,1,136,298,127,no chest pain good activity level,0
+76,1,3,178,378,194,chest pain shortness of breath fatigue dizziness,1
+50,0,3,186,146,169,healthy condition normal heart rate,0
+45,0,1,138,262,141,normal breathing no chest pain active lifestyle,0
+81,0,0,111,181,128,normal breathing no chest pain active lifestyle,0
+56,1,2,155,189,202,severe chest pressure sweating breathing difficulty,1
+75,1,3,178,144,199,pain in chest during exercise tiredness,1
+64,0,1,106,378,109,pain in chest during exercise tiredness,1
+29,0,3,123,293,191,no chest pain good activity level,0
+61,1,2,140,188,112,chest pain shortness of breath fatigue dizziness,1
+28,1,1,188,279,125,mild fatigue no major symptoms,0
+52,1,3,132,141,178,normal breathing no chest pain active lifestyle,0
+28,1,3,120,310,114,irregular heartbeat chest discomfort weakness,1
+79,0,3,177,194,139,pain in chest during exercise tiredness,1
+66,1,0,144,173,128,healthy condition normal heart rate,0
+75,0,2,113,187,88,irregular heartbeat chest discomfort weakness,1
+52,1,3,116,198,170,no chest pain good activity level,0
+56,0,3,121,170,91,severe chest pressure sweating breathing difficulty,1
+72,1,2,120,300,121,chest pain shortness of breath fatigue dizziness,1
+52,1,2,99,360,139,healthy condition normal heart rate,0
+84,1,0,165,327,98,pain in chest during exercise tiredness,1
+73,1,3,136,336,171,severe chest pressure sweating breathing difficulty,1
+73,1,2,185,234,117,chest pain shortness of breath fatigue dizziness,1
+54,1,2,129,186,91,mild fatigue no major symptoms,0
+54,1,2,120,321,117,severe chest pressure sweating breathing difficulty,1
+52,1,0,140,380,187,normal breathing no chest pain active lifestyle,0
+66,0,1,131,300,173,normal breathing no chest pain active lifestyle,0
+45,0,3,128,225,101,healthy condition normal heart rate,0
+29,1,3,108,140,93,mild fatigue no major symptoms,0
+42,0,2,178,284,121,severe chest pressure sweating breathing difficulty,1
+26,1,2,98,265,136,normal breathing no chest pain active lifestyle,0
+59,1,2,139,298,132,severe chest pressure sweating breathing difficulty,1
+30,1,1,183,143,203,mild fatigue no major symptoms,0
+58,1,1,131,217,123,no chest pain good activity level,0
+75,1,1,130,288,129,no chest pain good activity level,0
+58,1,0,151,369,108,pain in chest during exercise tiredness,1
+81,0,2,185,203,107,irregular heartbeat chest discomfort weakness,1
+82,1,0,107,285,137,mild fatigue no major symptoms,0
+40,1,1,162,230,92,normal breathing no chest pain active lifestyle,0
+58,1,3,187,255,107,chest pain shortness of breath fatigue dizziness,1
+41,0,3,165,359,119,severe chest pressure sweating breathing difficulty,1
+51,0,3,184,311,89,severe chest pressure sweating breathing difficulty,1
+67,0,1,182,317,136,chest pain shortness of breath fatigue dizziness,1
+72,0,0,180,298,158,irregular heartbeat chest discomfort weakness,1
+78,1,0,125,358,184,no chest pain good activity level,0
+32,1,3,168,194,194,mild fatigue no major symptoms,0
+34,1,1,175,285,165,healthy condition normal heart rate,0
+78,0,1,124,212,160,normal breathing no chest pain active lifestyle,0
+85,0,3,122,319,156,chest pain shortness of breath fatigue dizziness,1
+71,1,0,155,163,175,healthy condition normal heart rate,0
+72,1,2,122,344,165,severe chest pressure sweating breathing difficulty,1
+60,1,0,122,248,96,pain in chest during exercise tiredness,1
+29,1,2,95,167,150,mild fatigue no major symptoms,0
+61,1,1,107,288,103,chest pain shortness of breath fatigue dizziness,1
+26,0,3,161,270,97,pain in chest during exercise tiredness,1
+31,0,1,140,236,188,normal breathing no chest pain active lifestyle,0
+52,1,0,93,145,176,no chest pain good activity level,0
+78,1,1,135,257,86,pain in chest during exercise tiredness,1
+67,0,2,123,297,164,chest pain shortness of breath fatigue dizziness,1
+68,0,3,173,248,194,irregular heartbeat chest discomfort weakness,1
+83,0,0,123,293,150,normal breathing no chest pain active lifestyle,0
+63,1,0,152,323,109,pain in chest during exercise tiredness,1
+63,0,2,101,286,158,pain in chest during exercise tiredness,1
+75,0,1,147,206,182,mild fatigue no major symptoms,0
+53,1,1,124,221,159,no chest pain good activity level,0
+63,0,1,175,269,89,severe chest pressure sweating breathing difficulty,1
+72,1,1,178,194,102,chest pain shortness of breath fatigue dizziness,1
+54,0,3,147,377,194,severe chest pressure sweating breathing difficulty,1
+54,1,3,104,314,149,no chest pain good activity level,0
+45,0,2,171,300,102,pain in chest during exercise tiredness,1
+78,0,3,115,348,151,pain in chest during exercise tiredness,1
+41,0,3,161,357,106,pain in chest during exercise tiredness,1
+76,1,0,166,371,115,pain in chest during exercise tiredness,1
+25,1,0,140,307,144,mild fatigue no major symptoms,0
+64,0,3,149,301,116,severe chest pressure sweating breathing difficulty,1
+38,1,1,177,199,113,normal breathing no chest pain active lifestyle,0
+79,1,3,102,284,121,irregular heartbeat chest discomfort weakness,1
+73,1,1,107,290,123,no chest pain good activity level,0
+78,0,3,107,326,154,pain in chest during exercise tiredness,1
+62,1,3,148,220,144,irregular heartbeat chest discomfort weakness,1
+79,0,3,141,177,127,chest pain shortness of breath fatigue dizziness,1
+78,1,3,143,284,134,severe chest pressure sweating breathing difficulty,1
+36,1,2,139,239,110,mild fatigue no major symptoms,0
+33,0,1,148,279,98,irregular heartbeat chest discomfort weakness,1
+25,1,2,180,262,102,chest pain shortness of breath fatigue dizziness,1
+29,1,2,185,354,85,severe chest pressure sweating breathing difficulty,1
+31,0,2,90,230,161,healthy condition normal heart rate,0
+56,1,1,171,287,158,severe chest pressure sweating breathing difficulty,1
+28,1,0,127,318,156,no chest pain good activity level,0
+41,0,0,123,340,200,no chest pain good activity level,0
+41,1,0,167,359,162,mild fatigue no major symptoms,0
+80,1,1,137,169,196,mild fatigue no major symptoms,0
+26,1,2,103,165,203,mild fatigue no major symptoms,0
+64,0,1,96,225,107,mild fatigue no major symptoms,0
+79,0,2,164,279,151,chest pain shortness of breath fatigue dizziness,1
+84,0,2,124,376,179,pain in chest during exercise tiredness,1
+31,1,2,177,228,127,normal breathing no chest pain active lifestyle,0
+58,1,3,165,183,116,irregular heartbeat chest discomfort weakness,1
+58,1,0,150,187,203,normal breathing no chest pain active lifestyle,0
+57,0,1,144,226,149,no chest pain good activity level,0
+71,0,2,178,322,147,chest pain shortness of breath fatigue dizziness,1
+55,0,2,182,159,146,mild fatigue no major symptoms,0
+26,1,0,127,268,124,normal breathing no chest pain active lifestyle,0
+84,0,3,101,235,155,normal breathing no chest pain active lifestyle,0
+78,1,2,115,229,149,normal breathing no chest pain active lifestyle,0
+67,0,1,104,250,152,normal breathing no chest pain active lifestyle,0
+29,0,1,153,349,193,healthy condition normal heart rate,0
+35,0,1,127,353,190,normal breathing no chest pain active lifestyle,0
+73,0,1,133,354,189,normal breathing no chest pain active lifestyle,0
+77,1,1,111,372,180,normal breathing no chest pain active lifestyle,0
+42,1,0,119,310,204,no chest pain good activity level,0
+65,1,1,123,177,182,normal breathing no chest pain active lifestyle,0
+56,0,3,164,303,99,irregular heartbeat chest discomfort weakness,1
+77,0,2,187,242,119,pain in chest during exercise tiredness,1
+60,1,3,99,296,171,chest pain shortness of breath fatigue dizziness,1
+41,0,0,136,366,161,normal breathing no chest pain active lifestyle,0
+70,0,2,168,377,184,severe chest pressure sweating breathing difficulty,1
+26,0,3,138,249,119,pain in chest during exercise tiredness,1
+80,0,3,132,361,144,severe chest pressure sweating breathing difficulty,1
+40,1,3,140,337,93,chest pain shortness of breath fatigue dizziness,1
+53,0,2,158,231,118,pain in chest during exercise tiredness,1
+40,0,3,177,172,141,healthy condition normal heart rate,0
+61,1,0,98,286,142,no chest pain good activity level,0
+43,1,2,188,148,94,irregular heartbeat chest discomfort weakness,1
+83,1,3,95,304,141,irregular heartbeat chest discomfort weakness,1
+75,1,2,106,266,138,pain in chest during exercise tiredness,1
+35,0,1,125,269,182,normal breathing no chest pain active lifestyle,0
+54,1,3,161,212,104,severe chest pressure sweating breathing difficulty,1
+25,0,1,175,276,147,no chest pain good activity level,0
+33,1,2,112,154,199,no chest pain good activity level,0
+34,0,3,172,351,161,severe chest pressure sweating breathing difficulty,1
+28,0,2,141,260,128,chest pain shortness of breath fatigue dizziness,1
+42,0,2,104,329,186,no chest pain good activity level,0
+40,1,3,155,283,144,pain in chest during exercise tiredness,1
+28,1,1,190,272,120,healthy condition normal heart rate,0
+69,0,1,146,316,178,severe chest pressure sweating breathing difficulty,1
+31,0,1,151,323,159,mild fatigue no major symptoms,0
+28,1,0,159,288,152,mild fatigue no major symptoms,0
+71,0,1,110,182,149,no chest pain good activity level,0
+81,1,2,111,194,194,no chest pain good activity level,0
+61,0,0,100,197,112,no chest pain good activity level,0
+58,1,3,124,293,170,severe chest pressure sweating breathing difficulty,1
+78,1,0,181,185,180,healthy condition normal heart rate,0
+68,0,2,115,248,122,pain in chest during exercise tiredness,1
+49,1,2,122,174,100,normal breathing no chest pain active lifestyle,0
+78,0,2,168,183,181,irregular heartbeat chest discomfort weakness,1
+25,0,2,186,375,187,pain in chest during exercise tiredness,1
+56,1,0,171,236,145,healthy condition normal heart rate,0
+25,0,0,153,206,149,mild fatigue no major symptoms,0
+72,1,0,150,311,85,pain in chest during exercise tiredness,1
+53,0,1,115,283,133,mild fatigue no major symptoms,0
+33,1,0,180,375,90,pain in chest during exercise tiredness,1
+29,0,0,128,184,124,no chest pain good activity level,0
+69,0,1,123,173,169,normal breathing no chest pain active lifestyle,0
+74,1,1,152,250,141,irregular heartbeat chest discomfort weakness,1
+40,1,3,133,365,105,pain in chest during exercise tiredness,1
+51,1,2,121,321,173,mild fatigue no major symptoms,0
+28,0,1,178,369,105,chest pain shortness of breath fatigue dizziness,1
+45,1,1,140,336,188,no chest pain good activity level,0
+31,1,2,173,176,117,severe chest pressure sweating breathing difficulty,1
+79,1,3,114,312,132,irregular heartbeat chest discomfort weakness,1
+50,0,2,124,318,180,no chest pain good activity level,0
+55,0,1,138,300,182,normal breathing no chest pain active lifestyle,0
+63,0,2,137,333,138,irregular heartbeat chest discomfort weakness,1
+42,1,1,144,205,143,no chest pain good activity level,0
+48,0,2,174,289,87,pain in chest during exercise tiredness,1
+39,1,1,98,239,108,healthy condition normal heart rate,0
+59,0,1,177,292,130,irregular heartbeat chest discomfort weakness,1
+45,1,1,149,301,114,chest pain shortness of breath fatigue dizziness,1
+79,1,2,183,335,147,severe chest pressure sweating breathing difficulty,1
+76,0,3,166,344,172,chest pain shortness of breath fatigue dizziness,1
+37,0,2,184,345,125,irregular heartbeat chest discomfort weakness,1
+28,0,3,179,320,159,pain in chest during exercise tiredness,1
+67,1,0,110,317,132,no chest pain good activity level,0
+32,1,2,99,260,173,healthy condition normal heart rate,0
+37,1,1,146,228,106,healthy condition normal heart rate,0
+74,0,3,114,257,159,irregular heartbeat chest discomfort weakness,1
+84,1,1,112,201,124,mild fatigue no major symptoms,0
+46,0,3,166,228,137,healthy condition normal heart rate,0
+33,0,1,180,356,105,pain in chest during exercise tiredness,1
+65,1,1,173,208,129,mild fatigue no major symptoms,0
+71,1,2,123,159,86,pain in chest during exercise tiredness,1
+42,0,3,149,308,135,chest pain shortness of breath fatigue dizziness,1
+35,0,3,135,286,171,healthy condition normal heart rate,0
+77,0,1,102,307,132,healthy condition normal heart rate,0
+77,1,2,111,296,181,irregular heartbeat chest discomfort weakness,1
+36,1,3,189,279,160,severe chest pressure sweating breathing difficulty,1
+62,0,2,158,378,159,pain in chest during exercise tiredness,1
+31,0,3,94,361,147,normal breathing no chest pain active lifestyle,0
+64,0,3,128,189,172,no chest pain good activity level,0
+40,0,2,184,335,205,irregular heartbeat chest discomfort weakness,1
+78,0,2,129,247,130,severe chest pressure sweating breathing difficulty,1
+80,0,2,189,144,92,severe chest pressure sweating breathing difficulty,1
+57,1,1,135,312,176,mild fatigue no major symptoms,0
+52,1,0,149,345,93,severe chest pressure sweating breathing difficulty,1
+34,1,0,160,249,138,mild fatigue no major symptoms,0
+56,1,2,188,190,134,chest pain shortness of breath fatigue dizziness,1
+83,0,3,107,363,193,pain in chest during exercise tiredness,1
+38,1,1,123,233,89,normal breathing no chest pain active lifestyle,0
+41,0,1,143,328,105,irregular heartbeat chest discomfort weakness,1
+39,0,0,123,207,140,no chest pain good activity level,0
+25,1,2,141,155,179,healthy condition normal heart rate,0
+74,1,3,141,157,91,pain in chest during exercise tiredness,1
+84,1,1,92,237,180,normal breathing no chest pain active lifestyle,0
+26,1,2,104,349,201,healthy condition normal heart rate,0
+77,1,0,142,148,183,healthy condition normal heart rate,0
+63,0,3,163,188,114,pain in chest during exercise tiredness,1
+35,0,1,137,241,105,healthy condition normal heart rate,0
+35,1,1,155,344,129,no chest pain good activity level,0
+81,0,3,120,224,154,no chest pain good activity level,0
+34,0,2,118,181,138,healthy condition normal heart rate,0
+56,0,1,90,380,124,no chest pain good activity level,0
+30,0,0,164,374,151,normal breathing no chest pain active lifestyle,0
+82,0,2,153,338,176,severe chest pressure sweating breathing difficulty,1
+59,0,1,162,144,140,normal breathing no chest pain active lifestyle,0
+31,0,1,151,378,127,healthy condition normal heart rate,0
+40,0,3,175,143,97,pain in chest during exercise tiredness,1
+59,0,1,161,241,203,severe chest pressure sweating breathing difficulty,1
+71,0,0,190,347,186,chest pain shortness of breath fatigue dizziness,1
+53,1,1,169,241,148,normal breathing no chest pain active lifestyle,0
+57,1,1,163,239,179,mild fatigue no major symptoms,0
+73,0,0,157,250,158,chest pain shortness of breath fatigue dizziness,1
+82,0,3,134,259,94,chest pain shortness of breath fatigue dizziness,1
+80,0,1,94,241,198,no chest pain good activity level,0
+79,0,1,136,221,183,no chest pain good activity level,0
+62,0,2,141,324,158,pain in chest during exercise tiredness,1
+32,0,2,162,229,176,healthy condition normal heart rate,0
+51,0,1,171,300,155,mild fatigue no major symptoms,0
+38,0,3,135,206,113,mild fatigue no major symptoms,0
+79,1,1,150,208,91,severe chest pressure sweating breathing difficulty,1
+34,1,1,150,237,173,healthy condition normal heart rate,0
+64,0,2,162,258,91,irregular heartbeat chest discomfort weakness,1
+64,1,0,111,319,98,severe chest pressure sweating breathing difficulty,1
+71,1,0,134,207,155,healthy condition normal heart rate,0
+37,1,0,189,207,106,mild fatigue no major symptoms,0
+27,0,0,155,365,188,healthy condition normal heart rate,0
+30,1,1,156,341,120,mild fatigue no major symptoms,0
+52,0,3,164,239,160,no chest pain good activity level,0
+51,1,1,104,179,116,mild fatigue no major symptoms,0
+60,0,1,172,338,194,pain in chest during exercise tiredness,1
+34,1,0,156,217,123,mild fatigue no major symptoms,0
+68,1,3,108,208,145,normal breathing no chest pain active lifestyle,0
+82,1,2,128,297,161,pain in chest during exercise tiredness,1
+60,1,0,123,148,187,normal breathing no chest pain active lifestyle,0
+39,0,1,174,314,97,irregular heartbeat chest discomfort weakness,1
+34,1,0,178,243,138,mild fatigue no major symptoms,0
+30,0,3,144,367,110,pain in chest during exercise tiredness,1
+46,0,0,90,266,117,mild fatigue no major symptoms,0
+77,0,1,115,269,127,normal breathing no chest pain active lifestyle,0
+45,0,3,114,225,123,mild fatigue no major symptoms,0
+50,0,2,125,357,171,no chest pain good activity level,0
+39,0,3,190,232,142,mild fatigue no major symptoms,0
+82,1,1,175,153,87,severe chest pressure sweating breathing difficulty,1
+35,0,3,121,263,186,mild fatigue no major symptoms,0
+50,1,3,107,376,107,irregular heartbeat chest discomfort weakness,1
+33,0,2,174,318,103,chest pain shortness of breath fatigue dizziness,1
+71,0,2,116,379,105,irregular heartbeat chest discomfort weakness,1
+77,0,1,121,253,178,mild fatigue no major symptoms,0
+46,0,0,137,212,164,mild fatigue no major symptoms,0
+82,0,2,187,145,129,irregular heartbeat chest discomfort weakness,1
+36,0,0,110,200,128,no chest pain good activity level,0
+64,0,3,155,234,122,severe chest pressure sweating breathing difficulty,1
+85,1,0,168,161,169,mild fatigue no major symptoms,0
+79,1,3,125,355,101,chest pain shortness of breath fatigue dizziness,1
+72,1,0,104,199,102,healthy condition normal heart rate,0
+73,0,0,144,247,167,chest pain shortness of breath fatigue dizziness,1
+38,0,0,120,374,126,mild fatigue no major symptoms,0
+29,1,1,178,219,197,normal breathing no chest pain active lifestyle,0
+81,0,0,126,314,193,no chest pain good activity level,0
+26,1,1,135,323,131,normal breathing no chest pain active lifestyle,0
+50,1,0,162,241,111,chest pain shortness of breath fatigue dizziness,1
+53,1,2,132,185,147,no chest pain good activity level,0
+54,0,3,134,164,182,mild fatigue no major symptoms,0
+58,0,1,119,155,170,healthy condition normal heart rate,0
+37,1,3,183,218,146,healthy condition normal heart rate,0
+84,0,3,156,274,142,pain in chest during exercise tiredness,1
+71,0,3,104,336,203,severe chest pressure sweating breathing difficulty,1
+32,0,2,175,376,131,chest pain shortness of breath fatigue dizziness,1
+56,1,1,107,268,136,normal breathing no chest pain active lifestyle,0
+44,1,0,94,225,121,normal breathing no chest pain active lifestyle,0
+55,0,3,95,362,126,mild fatigue no major symptoms,0
+57,1,1,98,146,145,normal breathing no chest pain active lifestyle,0
+50,1,2,171,326,92,severe chest pressure sweating breathing difficulty,1
+34,0,0,176,284,194,mild fatigue no major symptoms,0
+68,0,3,157,150,165,severe chest pressure sweating breathing difficulty,1
+27,1,3,141,349,199,chest pain shortness of breath fatigue dizziness,1
+26,1,1,133,235,174,mild fatigue no major symptoms,0
+61,1,1,113,374,97,pain in chest during exercise tiredness,1
+50,0,0,154,142,114,healthy condition normal heart rate,0
+60,0,3,107,146,155,mild fatigue no major symptoms,0
+77,0,0,112,323,157,normal breathing no chest pain active lifestyle,0
+44,0,0,157,375,136,no chest pain good activity level,0
+79,1,0,125,140,187,mild fatigue no major symptoms,0
+84,0,0,135,233,105,normal breathing no chest pain active lifestyle,0
+83,1,3,174,294,137,pain in chest during exercise tiredness,1
+85,0,0,182,182,205,normal breathing no chest pain active lifestyle,0
+53,1,0,122,329,171,no chest pain good activity level,0
+28,0,2,139,262,192,healthy condition normal heart rate,0
+37,0,0,187,333,113,severe chest pressure sweating breathing difficulty,1
+72,0,3,91,361,121,chest pain shortness of breath fatigue dizziness,1
+59,1,1,113,378,126,normal breathing no chest pain active lifestyle,0
+46,1,0,135,272,108,normal breathing no chest pain active lifestyle,0
+40,0,0,178,313,194,normal breathing no chest pain active lifestyle,0
+83,1,3,97,335,150,pain in chest during exercise tiredness,1
+82,1,3,189,331,162,pain in chest during exercise tiredness,1
+81,0,3,106,287,188,chest pain shortness of breath fatigue dizziness,1
+38,1,0,172,320,154,mild fatigue no major symptoms,0
+79,1,2,169,207,141,pain in chest during exercise tiredness,1
+55,0,1,137,248,164,healthy condition normal heart rate,0
+70,1,3,125,201,98,irregular heartbeat chest discomfort weakness,1
+42,1,2,145,248,133,pain in chest during exercise tiredness,1
+31,0,1,165,300,164,healthy condition normal heart rate,0
+74,1,0,96,334,90,chest pain shortness of breath fatigue dizziness,1
+63,0,2,101,342,161,chest pain shortness of breath fatigue dizziness,1
+62,1,1,135,250,124,normal breathing no chest pain active lifestyle,0
+80,0,0,142,367,133,pain in chest during exercise tiredness,1
+26,0,3,90,371,181,mild fatigue no major symptoms,0
+82,1,0,93,307,91,pain in chest during exercise tiredness,1
+79,0,1,100,317,104,severe chest pressure sweating breathing difficulty,1
+55,0,3,95,196,158,healthy condition normal heart rate,0
+61,1,1,143,145,160,no chest pain good activity level,0
+43,0,1,188,265,126,mild fatigue no major symptoms,0
+59,1,1,91,295,130,healthy condition normal heart rate,0
+47,0,1,186,203,185,mild fatigue no major symptoms,0
+55,1,2,174,167,165,mild fatigue no major symptoms,0
+60,1,2,162,206,125,pain in chest during exercise tiredness,1
+42,1,0,129,242,183,no chest pain good activity level,0
+46,1,3,93,140,109,healthy condition normal heart rate,0
+54,1,2,114,300,197,no chest pain good activity level,0
+59,0,2,175,333,143,severe chest pressure sweating breathing difficulty,1
+30,1,0,183,359,99,chest pain shortness of breath fatigue dizziness,1
+26,0,0,141,143,111,normal breathing no chest pain active lifestyle,0
+52,0,0,95,243,111,normal breathing no chest pain active lifestyle,0
+43,1,0,139,260,140,healthy condition normal heart rate,0
+66,1,2,109,239,201,no chest pain good activity level,0
+85,1,0,96,313,193,healthy condition normal heart rate,0
+61,0,3,90,248,128,irregular heartbeat chest discomfort weakness,1
+46,0,2,134,190,109,mild fatigue no major symptoms,0
+25,1,2,153,268,153,pain in chest during exercise tiredness,1
+58,1,0,134,306,179,mild fatigue no major symptoms,0
+36,0,1,98,215,111,mild fatigue no major symptoms,0
+73,0,3,116,150,177,healthy condition normal heart rate,0
+53,1,0,118,194,158,normal breathing no chest pain active lifestyle,0
+60,0,2,166,215,136,irregular heartbeat chest discomfort weakness,1
+79,1,3,179,346,200,chest pain shortness of breath fatigue dizziness,1
+82,0,3,182,352,152,chest pain shortness of breath fatigue dizziness,1
+30,1,0,168,291,147,healthy condition normal heart rate,0
+59,0,2,179,365,185,irregular heartbeat chest discomfort weakness,1
+79,0,0,124,251,86,pain in chest during exercise tiredness,1
+69,0,0,184,310,99,irregular heartbeat chest discomfort weakness,1
+28,0,3,163,317,200,irregular heartbeat chest discomfort weakness,1
+64,1,3,135,286,112,pain in chest during exercise tiredness,1
+76,1,2,135,339,103,chest pain shortness of breath fatigue dizziness,1
+49,0,0,120,230,144,normal breathing no chest pain active lifestyle,0
+85,1,3,102,250,171,chest pain shortness of breath fatigue dizziness,1
+28,0,0,146,329,138,healthy condition normal heart rate,0
+30,1,1,150,294,169,normal breathing no chest pain active lifestyle,0
+53,1,0,186,317,140,normal breathing no chest pain active lifestyle,0
+33,1,0,134,175,107,mild fatigue no major symptoms,0
+37,0,1,172,259,198,mild fatigue no major symptoms,0
+53,1,1,121,217,190,healthy condition normal heart rate,0
+84,1,1,126,148,103,mild fatigue no major symptoms,0
+58,0,3,91,212,138,no chest pain good activity level,0
+62,1,2,168,330,150,irregular heartbeat chest discomfort weakness,1
